@@ -1,0 +1,2221 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>顺德频道_新浪佛山_新浪网</title>
+    <meta name="keywords" content="顺德,新闻,美食,生活,消费,校园,潮流,时尚,健康,佛山" />
+    <meta name="description" content="新浪广东是广东地区最具影响力的互动传播平台，整合新浪网、新浪微博资源，打造集门户、社会化媒体于一身的超级媒体，为用户提供最具本地特色的生活资讯服务及最佳内容互
+
+动体验。" />
+    <meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+    <style>
+        html,
+        body {
+          background-color: white;
+          cursor: default;
+        }
+        html {
+          _background-image: url(about:blank);
+          _background-attachment: fixed;
+        }
+        body,
+        input,
+        button {
+          font-size: 14px;
+          font-family: "microsoft yahei", tahoma, arial;
+        }
+        html,
+        body,
+        div,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6,
+        ul,
+        ol,
+        li,
+        dl,
+        dt,
+        dd,
+        p,
+        pre,
+        form,
+        input,
+        textarea,
+        fieldset,
+        table,
+        th,
+        td,
+        iframe {
+          margin: 0;
+          padding: 0;
+        }
+        iframe {
+          border: none;
+        }
+        ::-moz-selection {
+          background-color: #FFF7A8;
+          color: #444444;
+        }
+        ::selection {
+          background-color: #FFF7A8;
+          color: #444444;
+        }
+        input,
+        button {
+          outline: none;
+        }
+        input[type=submit],
+        input[type=button],
+        input[type=checkbox],
+        input[type=radio],
+        button {
+          cursor: pointer;
+        }
+        input[readonly=true] {
+          background-color: #ccc;
+        }
+        ul,
+        ol {
+          list-style: none;
+        }
+        img {
+          border: 0;
+          vertical-align: top;
+        }
+        h1 {
+          font-size: 18px;
+        }
+        h2 {
+          font-size: 16px;
+        }
+        h3 {
+          font-size: 14px;
+        }
+        h4,
+        h5,
+        h6 {
+          font-size: 100%;
+        }
+        a {
+          color: #333;
+          transition:.5s color ease;
+          -webkit-transition:.5s color ease;
+        }
+        a:hover {
+          color: #0061BB !important;
+        }
+        a,
+        a:hover {
+          text-decoration: none;
+        }
+        table {
+          border-collapse: collapse;
+        }
+        .w {
+          width: 950px;
+          margin: 0 auto;
+          overflow: hidden;
+        }
+        .w1 {
+          margin-bottom: 18px;
+        }
+        .fl {
+          float: left;
+        }
+        .fr {
+          float: right;
+        }
+        .fn {
+          float: none;
+        }
+        .clr {
+          display: block;
+          overflow: hidden;
+          clear: both;
+          height: .1px;
+          line-height: 0;
+          font-size: 0;
+        }
+        .al {
+          text-align: left;
+        }
+        .ac {
+          text-align: center;
+        }
+        .ar {
+          text-align: right;
+        }
+        .ld {
+          position: relative;
+          zoom: 1;
+        }
+        .ld .block {
+          position: absolute;
+        }
+        .block {
+          display: block;
+          overflow: hidden;
+        }
+        .block .block {
+          position: absolute;
+        }
+        .hide {
+          display: none;
+        }
+        .lh {
+          overflow: hidden;
+          zoom: 1;
+        }
+        .lh li,
+        .lh .item {
+          float: left;
+        }
+.fc{
+  position: relative;
+  left: 50%;
+  float: left;
+  overflow: visible;
+}
+.fc li{
+  position: relative;
+  right: 50%;
+  float: left;
+  margin-right: 20px;
+  width: 104px;
+}
+        .ell{
+            white-space: nowrap;    
+            word-break:break-all;    
+            word-wrap:break-word;    
+            overflow:hidden;    
+            text-overflow:ellipsis;    
+            display: block;
+        }
+        .ani{
+          -webkit-transition: .5s ease all;
+          transition: .5s ease all;
+        }
+        .anif{
+          -webkit-transition-duration : .2s;
+          transition-duration :.2s;
+        }
+        .anis{
+          -webkit-transition-duration :1s;
+          transition-duration :1s;
+        }
+
+        .w{
+          width: 900px;
+        }
+        body{
+          /* background: url(../index.png) center 0 no-repeat; */
+          padding-top: .1px;
+        }
+        .box{
+            max-width: 1480px;
+            margin: auto;
+            background-color: #FF7F00;
+        }
+        .box .body{}
+        .box1{
+            height: 480px;
+            margin-top: 0;
+            overflow: hidden;
+            zoom: 1;
+        }
+        .box1 .hand{
+            width: 50px;
+            height: 60px;
+            background: url(img/hand.png) 0 0 no-repeat;
+            top: 50%;
+            margin-top: -25px;
+            cursor: pointer;
+        }
+        .box1 .hand.right{
+            right: 0;
+            background-position: 0 100%;
+        }
+        .box1 .pic{
+            height: 100%;
+        }
+        .box1 .pic img{
+            /*height: 540px;*/
+            left: 50%;
+            width: 1478px;
+            margin-left: -739px;
+        }
+        .box2{
+            height: 90px;
+            overflow: hidden;
+            zoom: 1;
+        }
+        .box2 .barbox{
+            border: 2px #FFF solid;
+            background-color: white;
+            margin-top: 6px;
+            width: 766px;
+        }
+        .box2 .barbox li{
+            height: 6px;
+            border-right: 2px #FF7F00 solid;/*hahaha*/
+            width: 190px;
+        }
+        .box2 .barbox li.last{border:0}
+        .box2 .bar{}
+        .box2 .navbox{
+            width: 766px;
+        }
+        .box2 .navbox li{
+            width: 190px;
+            font-size: 22px;
+        }
+        .box2 .navbox li p{
+            color: white;
+            margin-top: 9px;
+			text-align:center;
+        }
+        .box2 .navbox li span{
+            color: white;
+            margin-top: -5px;
+            display: block;
+			text-align:center;
+        }
+        .box2 .barbox li.bar {
+            background-color: #FF7F00;/*hahaha*/
+        }
+
+        .part3{
+            height: 480px;
+            width: 586px;
+        }
+        .part4{
+            margin-top: 0px;
+        }
+        .part5{
+            height: 314px;
+        }
+        .part7{
+            margin-left: 610px;
+        }
+        .part7 .content{
+            border-top: 2px #F29149 solid;
+            padding-top: 20px;
+            margin-top: 1px;
+        }
+        .part7 .l{
+            width: 120px;
+            height: 100px;
+            padding-right: 0;
+        }
+        .part7 .w118{
+            margin-left: 120px;
+            padding: 10px;
+           height: 80px;
+        }
+        .part7 .w118 h5{
+            margin-bottom: 10px;
+        }
+        .part7 .w118 h5 a{
+            font-size: 16px;
+        }
+        .part7 .w118 h5 a ,.part7 .w118 .a-0079ca{
+            color: #007CEE;
+        }
+        .part7 .w118 h5 a:hover ,.part7 .w118 .a-0079ca:hover{
+           color: #FF8400 !important;
+        }
+        .part7 .w118 p{
+            margin-top: 18px;
+        }
+        .part7 ol{
+            border-top: 1px #DDD solid;
+            padding-top: 20px;
+            margin-top: 36px;
+        }
+        .part7 ol li{
+            line-height: 30px;
+        }
+        .part7 ol li a:hover{
+                color: #C00 !important;
+        }
+
+        .part .title{
+            padding: 10px 0;
+        }
+        .part .title p{
+            height: 40px;
+            /*background: url(http://guangdong.sinaimg.cn/2014/0815/U11417P693DT20140815101807.jpg) no-repeat;*/
+            background: url(images/title.png) no-repeat;
+        }
+        .part1{
+            margin-bottom: 10px;
+        }
+        .part1 .title p{
+            background-position: 0 -100px
+        }
+        .part2 .title p{}
+        .part3 .title p{
+            background-position: 0 -100px;
+        }
+        .part4 .title p{
+            background-position: 0 -156px;
+        }
+        .part5 .title p{
+            background-position: 0 -210px;
+        }
+        .part6 .title p{
+            background-position: 0 -266px;
+        }
+        .part7 .title p{
+            background-position: -590px -100px;
+        }
+
+        .navbox{}
+        .navbox ul{
+            margin-bottom: 30px;
+        }
+        .navbox ul li{
+            width: 215px;
+            background-color: #26B9E1;/*hahaha*/
+            line-height: 30px;
+            text-align: center;
+            font-size: 20px;
+            color: white;
+            margin-right: 10px;
+        }
+        .navbox ul li.current{
+            background-color: #FF8500;
+        }
+        .navbox ul li a{
+            color: inherit !important;
+        }
+        .focusImgs li img {
+        width: 100%;
+        }
+        .part3 .result_box{
+            height: 420px;
+            overflow: hidden;
+            zoom: 1;
+        }
+        .part3 .result_box iframe{
+            width: 1090px;
+            height: 2360px;
+            position: relative;
+            top: -85px;
+            left: -90px;
+        }
+        body{font-size: 12px}
+        .link-fff{color:#fff}
+        .link-fff:visited{color:#fff}
+        .link-fff:hover{color:#fff}
+        .link-000{color:#000}
+        .link-000:visited{color:#000}
+        .link-000:hover{color:#c00}
+        .link-333{color:#333}
+        .link-333:visited{color:#333}
+        .link-333:hover{color:#c00}
+        .link-666{color:#666}
+        .link-666:visited{color:#666}
+        .link-666:hover{color:#c00}
+        .link-494949{color:#494949}
+        .link-494949:visited{color:#494949}
+        .link-494949:hover{color:#c00}
+        .link-474747{color:#474747}
+        .link-474747:visited{color:#474747}
+        .link-474747:hover{color:#c00}
+        .link-fa9300{color:#fa9300}
+        .link-fa9300:visited{color:#fa9300}
+        .link-fa9300:hover{color:#c00}
+        .display-block, .display-block:visited { display:block; }
+        .overflow-hidden { overflow:hidden; }
+        .position-relative, .position-relative:visited { position:relative;  }
+        .clearfix:after{content:"\0020";display:block;height:0;clear:both}
+        .clearfix{zoom:1}
+        .wrap{width:1000px;margin:0 auto}
+        /*part1
+        *//* focus */
+        .mod_focus .focus{width: 100%;height: 100%;overflow:hidden; zoom: 1;position: relative; }
+        .mod_focus ul{width:483px;height: 304px;overflow:hidden;position:relative; }
+        .mod_focus li{width: 413px;height: 310px;float:left;position:relative;}
+        .mod_focus li a{display:block;cursor:pointer;}
+        .mod_focus .tit{width: 413px;position:absolute;left:0;bottom:35px;text-align:center;z-index:1; font-family:"Microsoft Yahei"; font-size:20px; font-weight:normal}
+        .mod_focus .tit a{color:#fff;}
+        .mod_focus .tit a:hover{text-decoration:none;}
+        .mod_focus .bg{width: 413px;height:70px;position:absolute;left:0;;bottom:0;background:#000;opacity:0.7;filter:alpha(opacity=70);}
+        .mod_focus .foucsTit{width: 413px;height:22px;left:0;position:absolute;bottom:3px;text-align:center;}
+        .mod_focus .foucsTit span{display:inline-block;width:7px;height:7px;margin: 0 5px;line-height:0;font-size:0;background:url(http://mat1.gtimg.com/sports/index2013/images/icons_v8.png) -160px 
+
+-90px no-repeat;cursor:pointer;overflow:hidden;}
+        .mod_focus .foucsTit span.on{background:url(http://mat1.gtimg.com/sports/index2013/images/icons_v8.png) -170px -90px no-repeat;}
+        .mod_focus .focusBtnL,
+        .mod_focus .focusBtnR{width:40px;height:56px;padding:7px;margin-top:-70px;position:relative;z-index:1;}
+        .mod_focus .focusBtnL{float:left;}
+        .mod_focus .focusBtnR{float:right;}
+        .mod_focus .focusBtnL img{float:right;}
+        .mod_focus .focusBtnL img,
+        .mod_focus .focusBtnR img{display:none;cursor:pointer;}
+        .mod_focus .focusBtnL span,
+        .mod_focus .focusBtnR span{display:inline;width:23px;height:45px;margin:7px 5px 0;cursor:pointer;overflow:hidden; background:url(http://guangdong.sinaimg.cn/images/2013news/icons_v8.png) 0 
+
+0 no-repeat;}
+        .mod_focus .focusBtnL span{float:left;background-position:0 -90px;}
+        .mod_focus .focusBtnR span{float:right;background-position:-30px -90px;}
+        .mod_focus .focusBtnLHover span{ background:url(http://guangdong.sinaimg.cn/images/2013news/focusLbtn.png) no-repeat;}
+        .mod_focus .focusBtnRHover span{ background:url(http://guangdong.sinaimg.cn/images/2013news/focusRbtn.png) no-repeat;}
+        .mod_focus .focusBtnLHover,
+        .mod_focus .focusBtnRHover{width:146px;background:#0079ca;overflow:hidden;}
+        .mod_focus .focusBtnLHover img,
+        .mod_focus .focusBtnRHover img{display:inline;}
+
+        .part01{}
+        .part01 .p01_left{float:left; width: 413px;}
+        .part01 .p01_right{float:right; width: 457px;}
+        .p01_right dt{ background:url(http://guangdong.sinaimg.cn/images/2013news/nav.png) no-repeat 0 -173px; height:34px;}
+        .p01_right .p01_r_cont1{border-bottom:1px dashed #dcdcdc; padding-bottom:13px;margin-top: -12px;}
+        .p01_right .p01_r_cont2{/* margin:7px 0 6px */}
+        .p01_right .p01_r_cont2 p{ background:url(images/dian.jpg) no-repeat 0 50%; padding-left:12px;  overflow:hidden; font-size:1.0em; font-family:宋体; line-height: 27px; white-space:nowrap;}
+        .p01_right .p01_r_cont2 p a{color:#333}
+        .p01_right .p01_r_cont2 p a:visited{color:#333}
+        .p01_right .p01_r_cont2 p a:hover{color:#c00}
+        .p01_right .p01_r_cont3{border:1px solid #d3d3d3; width: 415px; height:29px;font:12px/29px 宋体;margin-top: 10px;}
+        .p01_r_cont3 .p01_r_c3_left{float:left; width: 156px; padding-left:11px;}
+        .p01_r_cont3 .p01_r_c3_left a{color:#666;}
+        .p01_r_cont3 .p01_r_c3_left a:visited{color:#666;}
+        .p01_r_cont3 .p01_r_c3_left a:hover{color:#c00}
+        .p01_r_cont3 .p01_r_c3_right{float:right; width: 206px; padding-left:11px;}
+        .p01_r_cont3 .p01_r_c3_right a{color:#666;}
+        .p01_r_cont3 .p01_r_c3_right a:visited{color:#666;}
+        .p01_r_cont3 .p01_r_c3_right a:hover{color:#c00}
+
+        .blk01{margin-top:13px;}
+        .blk01 .b01_left{float:left; width: 201px; padding:0 6px;}
+        .blk01 .b01_left h1{font:20px/40px 微软雅黑;}
+        .blk01 .b01_left h1 a{color:#191919;font-size: 16px;}
+        .blk01 .b01_left h1 a:visited{color:#191919}
+        .blk01 .b01_left h1 a:hover{color:#c00}
+        .blk01 .b01_left p{font:12px/22px 宋体;line-height: 16px;}
+        .blk01 .b01_left p a{color:#0079ca}
+        .blk01 .b01_left p a:visited{color:#0079ca}
+        .blk01 .b01_left p a:hover{color:#c00}
+        .blk01 .b01_right{float:right; width:186px; padding:0 6px; background:url(http://guangdong.sinaimg.cn/images/2013news/why_bg.jpg) no-repeat 0 10px; height:76px; padding:0 9px 0 21px;}
+        .blk01 .b01_right p{font:12px/24px 宋体; margin-top:20px;}
+        .blk01 .b01_right p a{color:#717171}
+        .blk01 .b01_right p a:visited{color:#717171}
+        .blk01 .b01_right p a:hover{color:#c00}
+        .blk01 .b01_right p span a{color:#ff6000}
+        .blk01 .b01_right p span a:visited{color:#ff6000}
+        .blk01 .b01_right p span a:hover{color:#c00}
+
+        .blk02{margin-top: 8px;}
+        .blk02 .b02_left{float:left; width: 196px; height: 25px; border:1px solid #d3d3d3; text-align:center; font:12px/29px 宋体;}
+        .blk02 .b02_left a{color:#0079ca}
+        .blk02 .b02_left a:visited{color:#0079ca}
+        .blk02 .b02_left a:hover{color:#c00}
+        .blk02 .b02_right{float: left; width: 190px; height: 25px; border:1px solid #d3d3d3; text-align:center; font:12px/29px 宋体;margin-left: 15px;}
+        .blk02 .b02_right a{color:#0079ca}
+        .blk02 .b02_right a:visited{color:#0079ca}
+        .blk02 .b02_right a:hover{color:#c00}
+        .part06{}
+        .part06 dt{ background: url(http://guangdong.sinaimg.cn/2014/0815/U11417P693DT20140815101807.jpg) no-repeat 0 -59px; height:47px;}
+        .part06 dd{}
+        .part06 dd .p06_left{float:left; width: 575px; padding-top:16px;}
+        .part06 dd .p06_right{float: left; width:275px;margin-left: 10px;}
+
+        .wei_i{ position:relative; width:575px; height:202px;}
+        .wei_i .wei_i_pos01{ position:absolute; width:143px; height:96px; background-color:#77abe4; left:0; top:0}
+        .wei_i .wei_i_pos02{ position:absolute; width:143px; height:96px; background-color:#96c1ec; left:0; top:106px;}
+        .wei_i .wei_i_pos03{ position:absolute; width:133px; height:202px; background-color:#4c88c6; top:0;}
+        .wei_i .wei_i_pos04{ position:absolute; width:133px; height:96px; background-color:#77abe4; left: 143px; top:0;}
+        .wei_i .wei_i_pos05{ position:absolute; width:133px; height:96px; background-color:#96c1ec; left: 143px; top:106px;}
+        .wei_i .wei_i_pos06{ position:absolute; width:133px; height:96px; background-color:#96c1ec; left: 296px; top:0;}
+        .wei_i .wei_i_pos07{ position:absolute; width:133px; height:96px; background-color:#4c88c6; left: 296px; top:106px;}
+        .wei_i .wei_i_pos08{ position:absolute; width:133px; height:202px; background-color:#77abe4; left: 439px; top:0;}
+
+        .blk13{}
+        .blk13 dt{background:url(http://guangdong.sinaimg.cn/images/2013news/nav.png) no-repeat 0 -628px; height:34px;}
+        .blk13 dd .b13_cont1{ margin-top:6px;}
+        .b13_cont1 p{font:12px/30px 宋体; color:#333}
+        .b13_cont1 p a{color:#333}
+        .b13_cont1 p a:visited{color:#333}
+        .b13_cont1 p a:hover{color:#c00}
+        .blk13 dd .b13_cont2{ margin-top:16px;}
+        .b13_cont2 .b13_cont2_l{float:left; width:50px;} 
+        .b13_content{height: 148px;overflow: auto;}
+        .b13_cont2 .b13_cont2_r{float:right; width:200px; background:url(http://guangdong.sinaimg.cn/images/2013news/why_bg.png) no-repeat 0 -192px; height:53px;}
+        .b13_cont2_r p{font:12px/24px 宋体; color:#747474; padding:4px 0 0 15px;}
+        .b13_cont2_r p a{color:#007bcb}
+        .b13_cont2_r p a:visited{color:#007bcb}
+        .b13_cont2_r p a:hover{color:#c00}
+        /*汽车*/
+        .hd-auto { background-position:0px -186px;}
+        .a-9c7532 { color:#9c7532;}
+        .a-9c7532:visited { color:#9c7532;}
+        .a-9c7532:hover { color:#ff8400;}
+        .auto-pc {}
+        .auto-pc li { float:left; width:98px; text-align:center; margin-right:7px; margin-bottom:6px;}
+        .c2-con { width:122px; color:#333333; line-height:22px;}
+        .auto-r1 { height:auto; overflow:hidden;}
+        .pic-tips { width:100%; text-align:center; position:absolute; z-index:2; left:0px; bottom:0px; height:40px; background:#000; opacity:0.7; filter:alpha(opacity=70);}
+        .pic-tips p { padding:10px 10px 0 10px;}
+
+        .auto-r2 ol{ background:url(http://guangdong.sinaimg.cn/images/2013index/dotted.jpg) repeat-x 0px 0px; padding:10px 0 0 0;}
+        .auto-r2 ol li { height:32px; line-height:32px; font-size:14px;}
+        .r-list ol{ background:url(http://guangdong.sinaimg.cn/images/2013index/dotted.jpg) repeat-x 0px 0px; padding:10px 0 0 0;}
+        .r-list ol li { height:32px; line-height:32px; font-size:14px;}
+
+        .head-text-wrap{ margin:15px 20px; width: 250px; overflow:hidden; padding: 3px 20px 0 4px;}
+        .border{ border-bottom:solid 1px #e2e2e2; padding-bottom:15px; margin-top: 22px;}
+        .head-text h2{ font: 21px "微软雅黑"; color: #0f0f0f; margin-bottom:15px;}
+        .head-text p{ line-height: 25px; color: #666; font-size: 16px;}
+        .head-text a:hover{ text-decoration:none;}
+        .head-text a:hover h2{ color: #ff8400;}
+
+        .head-text-wrap1{ margin:0 20px; width:200px; height: 84px; overflow:hidden;}
+        .head-text1{padding:0 10px 10px 10px;}
+        .head-text1 p{ line-height:22px; color: #666;}
+        .head-text1 p a{color:#787878;}
+        .head-text1 p a:visited{color:#787878;}
+        .head-text1 p a:hover{color:#ff8400;}
+
+        .focus-wrap{ float:left; border:solid 1px #e5e5e5;}
+
+        .focus-food-wrap5 { width: 444px; height: 400px; position:absolute; top:0px; left:0px;}
+        .focus-food-wrap6 { width: 445px; height: 400px; position:absolute; top:0px; left: 444px;}
+        .focus-food-wrap7 { width: 100%; height: 400px; position:absolute; top:0px; left:0px;}
+
+        .focus-list1{ padding:0 20px; overflow:hidden; position:absolute; width:190px; top:0px; left: 352px;}
+        .focus-list1 li{ line-height:24px; margin-bottom:20px; width:190px; height: 135px; border-top:solid 1px #e2e2e2; padding-top:30px; margin-top:-1px;}
+        /*.focus-list1 li a{ font:18px/28px "微软雅黑";}*/
+        .focus-list1 h3{ font:20px/24px "微软雅黑";}
+        .focus-list1 p{ padding:10px 0px; font:12px/20px "宋体";}
+        .solid-h{ border-left:solid 1px #e2e2e2; height:343px; width:2px; padding:0px 1px; position:absolute; left: 595px; top:0px;}
+        .L480{ left: 610px;}
+
+        /* 头屏切换 */
+        .area { margin:0 auto; width: 889px;}
+        .grid-u-12 { float:left; }
+        .tab-con-1 { display:none; }
+        .tab-con-box-1 .current { display:block; }
+        .pb8h { padding-bottom:8px; }
+        .pt14h { padding-top:14px; }
+        .f12px { font-size:12px; font-weight:normal;}
+        .pl20w { padding-left:20px; }
+        .mt-45h-h45h { margin-top:-45px; height:45px; }
+        .cFFF, .cFFF:visited, .cFFF:hover { color:#fff; }
+        .semi-trans { background: rgba(0, 0, 0, .7); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#B2000000, endColorstr=#B2000000);
+            position:relative; }
+        .display-block, .display-block:visited { display:block; }
+        .overflow-hidden { overflow:hidden; }
+        .position-relative, .position-relative:visited { position:relative;  }
+        a.position-relative, a.position-relative:visited{*zoom:1; *display:inline;}
+        a.position-relative:hover{text-decoration:none;}
+
+        .head-ctrls { background:#f8f8f8; margin:0 1px; border:0px solid #e5e5e5; border-radius: 0 0 0px 0px; line-height:68px; height:68px; border-top:none; text-align: center; box-shadow: 0 0 0 
+
+green, 0 0 0 blue, 0 1px 0 #f2f2f2, 0 0 0 yellow; text-indent:-1px; }
+        .head-ctrls li { width:93px; height:100%; text-align:center; display:inline-block; *display:inline;
+            *zoom:1;
+            text-indent:0; border-left:1px solid #e5e5e5; cursor:pointer; color:#252525; box-shadow: 0 0 0 white, -1px 0 0 white, 0 0 0 white, 0 0 0 white; }
+        .f-yahei{font:20px "微软雅黑"; line-height:70px;}
+        .head-ctrls .last { border-right:1px solid #e5e5e5; }
+        .head-ctrls .current { border:none; background:url(http://guangdong.sinaimg.cn/images/2013index/head-current-ctrl.png) 0 0 no-repeat; height:69px; position:relative; color:#b2110e; box-
+
+shadow:none; }
+        .head-slide {  position:relative; float:left; display:none;  overflow:hidden;   height: 400px;}
+        .head-slides { width:3840px; }
+        .head-slides  li.current{display:block;}
+        .head-slide-show{ overflow:hidden;}
+        .head-slide-box { position:relative; z-index:1; }
+        .head-slide-prev-next { position:absolute; top:50%; left:0px; width:0; height:0; overflow:visible; }
+        .head-slide-prev, .head-slide-next { width:31px; height:50px; padding-top:5px; top:-66px; border-radius:0px; background: rgba(0, 0, 0, .15); filter: 
+
+progid:DXImageTransform.Microsoft.gradient(startColorstr=#26000000, endColorstr=#26000000);
+            text-align:center; position:absolute; color:#fff; background:url(http://guangdong.sinaimg.cn/images/2013index/focus-arrow.png) no-repeat; text-indent:-99999px; z-index:99;}
+
+        .head-slide-arrow { font-size:56px; }
+        .head-slide-prev { left:0; background-position:0px 0px;}
+        .head-slide-next { left: 858px; background-position:-31px 0px;}
+
+        /* 视觉右侧切换广告位 */
+        .dot-ctrls { position: absolute; right: 10px; bottom: 6px; white-space:nowrap;  }
+        .dot-ctrls li.current { background:#fff; display:inline-block; *display:inline; *zoom:1; }
+        .dot-ctrl { background: gray; width: 10px; height: 10px; display:inline-block; *display:inline; *zoom:1;border-radius: 10px; cursor: pointer; }
+
+        /*焦点图 - 美食*/
+        .focus-food-wrap1 { width: 541px; position:absolute; top:0px; left:0px;}
+        .focus-food-wrap2 { width: 350px; position:absolute; top:0px; left: 540px;}
+        .focus-food-wrap3 { position:absolute; top: 229px; left: 540px;}
+        .focus-food-wrap1 img{
+            width: 541px;
+            height: 400px;
+        }
+        .focus-food-wrap2 img{
+            width: 350px;
+            height: 229px;
+        }
+        .focus-food-wrap3 img{
+            width: 350px;
+            height: 171px;
+        }
+
+        .tab-con-1 img {
+        width: 575px;
+        height: 400px;}
+        .focus-food-wrap7 img{
+            width: 100%;
+            height: 400px;
+        }
+        .focus-food-wrap5 img{
+            width: 100%;
+            height: 100%;
+        }
+        .focus-food-wrap6 img{
+            width: 100%;
+            height: 100%;
+        }
+
+        /************ 图集切换 ***************/
+        /* 通用图片列表_普通式 */ 
+        .picList li{ } 
+
+        /* 多个左滚动 - 公用类 */ 
+        .leftLoop{ overflow:hidden; position:relative;  border:0px solid #ccc;   } 
+        .leftLoop .hd{ overflow:hidden;  height:40px; background:#fff; margin-bottom:2px; } 
+        .leftLoop .hd .prev,.leftLoop .hd .next{ display:block;  width:23px; height:22px; line-height:10px; float:right; margin-right:10px; margin-top:10px;  overflow:hidden;   
+             cursor:pointer; background:url("http://guangdong.sinaimg.cn/images/2013index/allbgs.png") -366px 0px no-repeat;} 
+        .leftLoop .hd .next{ background:url("http://guangdong.sinaimg.cn/images/2013index/allbgs.png") -389px 0px no-repeat;  } 
+        .leftLoop .hd ul{ float:right; overflow:hidden; zoom:1; margin-top:10px;  } 
+        .leftLoop .hd ul li{ position:relative;  float:left;  width:10px; height:10px; overflow:hidden; background:#dedede; margin-right:10px; text-indent:-999px; cursor:pointer; 
+            -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; behavior: url(PIE.htc); margin-top:7px;} 
+        .leftLoop .hd ul li.on{ background:#bdbdbd;  } 
+        .leftLoop .bd{ padding:0px;} 
+        .leftLoop .bd ul{ overflow:hidden; zoom:1; } 
+        .leftLoop .bd ul li{ margin:0px; text-align:center; float:left; } 
+        /************ 图集切换 ***************/
+        /*新视界*/
+        .part-i { position:relative;}
+        .part-i .part-hd { height:24px; margin-bottom:0px;}
+        .part-i .part-r-hd { position:absolute; right:0px; top:0px; width:255px;}
+        .hd-photo { background-position:0px -335px; padding-left:268px}
+        .a-d28814 { color:#d28814;}
+        .a-d28814:visited { color:#d28814;}
+        .a-d28814:hover { color:#ff8400;}
+
+        .photoGallery-wrap { overflow:hidden;}
+        .photoGallery { width:1000px; height: 457px; overflow:hidden; position: relative;}
+        .gallery-wrap1{ position:absolute; width:150px; height:225px; top:0px; left:0px;}
+        .gallery-wrap2{ position:absolute; width:150px; height:185px; top:242px; left:0px;}
+        .gallery-wrap3{ position:absolute; top:0px;}
+        .gallery-wrap4{ position:absolute; top:0px; left: 361px;}
+        .gallery-wrap5{ position:absolute; top:0px; left: 546px;}
+        .gallery-wrap6{ position:absolute; top: 256px; left: 361px;}
+        .gallery-wrap7{ position:absolute; top: 256px; left: 725px;}
+		.gallery-wrap8{ position:absolute; top:0px; left: 361px;}
+
+        .photoGallery  .pic-tips { display:none;}
+        .gallery-wrap1 .pic-tips{ width:150px; height:225px;}
+        .gallery-wrap2 .pic-tips{ width:150px; height:185px;}
+        .gallery-wrap3 .pic-tips{ width:320px; height:427px;}
+        .gallery-wrap4 .pic-tips{ width:160px; height:225px;}
+        .gallery-wrap5 .pic-tips{ width:320px; height:225px;}
+        .gallery-wrap6 .pic-tips{ width:330px; height:185px;}
+        .gallery-wrap7 .pic-tips{ width:150px; height:185px;}
+		.gallery-wrap8 .pic-tips{ width:160px; height:225px;}
+
+        .gallery-wrap1 a{ width:150px; height:225px;}
+        .gallery-wrap2 a{ width:150px; height:185px;}
+        .gallery-wrap3 a{}
+        .gallery-wrap4 a{}
+        .gallery-wrap5 a{}
+        .gallery-wrap6 a{}
+        .gallery-wrap7 a{}
+		.gallery-wrap8 a{}
+
+        .photoGallery  .tipsInfo{ position:absolute; bottom:0px; text-align:left; height:100px; left:0px;}
+        .gallery-wrap3 .tipsInfo{ position:absolute; bottom:0px; text-align:left; height:168px;}
+
+        .photoGallery h4{ font:18px Microsoft Yahei; padding:0px 22px 12px 22px;}
+        .photoGallery p{ font:12px "宋体"; padding:0px 22px; line-height:22px; height:66px; overflow:hidden;}
+        .photoGallery .gallery-wrap3 p{ height:90px;}
+
+        .mgb5{ margin-bottom:5px;}
+        .mgb10{ margin-bottom:10px;}
+        .mgb16{ margin-bottom:16px;}
+        .mgb18{ margin-bottom:18px;}
+        .mgb20{ margin-bottom:20px;}
+        .mgb25{ margin-bottom:25px;}
+        .mgb30{ margin-bottom:30px; vertical-align:top}
+        .mgb37{ margin-bottom:37px;}
+        .mgb40{ margin-bottom:40px;}
+        .padding-bottom30{ padding-bottom:30px;}
+        .padding-top32{ padding-top:32px;}
+        .h704{ height:704px; overflow:hidden;}
+        .h500{ height:500px; overflow:hidden;}
+        .h396{ height:396px; overflow:hidden;}
+        .h205{ height:205px; overflow:hidden;}
+        .h103{ height:103px; overflow:hidden;}
+        .h104{ height:104px; overflow:hidden;}
+        .h211{ height:211px; overflow:hidden;}
+        .h113{ height:113px; overflow:hidden;}
+        .h295{ height:295px; overflow:hidden;}
+        .h190{ height:190px; overflow:hidden;}
+        .h457{ height:457px; overflow:hidden;}
+        .ie6-mgb18 { _margin-bottom:0px;}
+
+        .gallery-wrap3 img {
+        width: 340px;
+        height: 457px;
+        }
+        .gallery-wrap4 img{
+            width: 507px;
+            height: 238px;
+        }
+       .gallery-wrap5 img{
+            width: 320px;
+            height:238px;
+        }
+        .gallery-wrap6 img{
+            width: 507px;
+            height: 202px;
+        }
+       .gallery-wrap8 img{
+            width: 170px;
+            height: 238px;
+        }
+    </style>
+
+</head>
+
+<body><!-- SUDA_CODE_START --> 
+<script type="text/javascript"> 
+//<!--
+(function(){var win=window,doc=document,nav=navigator,ua=nav.userAgent,scr=win.screen,loc=win.location.href;var prtl=loc.indexOf("https")>-1?"https://":"http://",domain="beacon.sina.com.cn";var a_gif=prtl+domain+"/a.gif?",g_gif=prtl+domain+"/g.gif?",d_gif=prtl+domain+"/d.gif?",e_gif=prtl+domain+"/e.gif?";var sudaRef=doc.referrer.toLowerCase();var cookie_SINAGLOBAL="SINAGLOBAL",cookie_For_Flash="FSINAGLOBAL",cookie_Apache="Apache",cookie_ULV="ULV",cookie_SUP="SUP",cookie_UOR="UOR",cookie__s_acc="_s_acc",cookie__s_tentry="_s_tentry";var count=0;var inFrame=false,isMetaFresh=false;var loginUserInfo="";var commonType=16777215,performance=0,filter,interval=0;var sudaPageid="",sudaExt1="",sudaExt2="";var sudaInfo=[],acTrackInfo=[],uaTrackInfo=[];var sudaGlobalCount=0;var fsudaGlobalCount=0;var storage=(function(){var objDS=window.localStorage,store,STORE_NAME;if(objDS){return{get:function(key){return unescape(objDS.getItem(key))},set:function(key,value){objDS.setItem(key,escape(value))}}}else{if(window.ActiveXObject){store=document.documentElement;STORE_NAME="localstorage";try{store.addBehavior("#default#userdata");store.save("localstorage")}catch(e){}return{set:function(key,value){try{store.setAttribute(key,value);store.save(STORE_NAME)}catch(e){}},get:function(key){try{store.load(STORE_NAME);return store.getAttribute(key)}catch(e){}}}}else{return{get:getCookie,set:setCookie}}}})();var flashData={flashObj:null,id:"sudaDataFrame",status:"loading",$:function(objName){if(document.getElementById){return eval('document.getElementById("'+objName+'")')}else{return eval("document.all."+objName)}},clear:function(){this.flashObj.write("")},read:function(name){if(this.status!="ok"){return""}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return""}var dataScring=this.flashObj.read();if(dataScring==null){dataScring=""}var reg=new RegExp("(?:^|;)"+name+"=(.*?),expires=([^;]*)","i");var value=dataScring.match(reg);if(value==null){value=""}else{if(value.length>=3){var now=new Date();var dd=now.getTime();if(new Number(value[2])>dd){value=value[1];value=value.replace(/\[\$\=\]/g,"=");value=value.replace(/\[\$\;\]/g,";");value=value.replace(/\[\$\,\]/g,",")}else{value=""}}else{value=""}}return value},write:function(name,value,hours){if(this.status!="ok"){return}var nameRule=/[=,;]+/i;if(nameRule.test(name)){return}value=value.toString();value=value.replace(/\\/g,"\\\\");value=value.replace(/\&/g,"&amp;");value=value.replace(/\=/g,"[$$=]");value=value.replace(/\;/g,"[$$;]");value=value.replace(/\,/g,"[$$,]");if(typeof(hours)!="number"){hours=24*30*3}var now=new Date();var expire=new Date(now.getTime()+hours*3600000);expire=",expires="+expire.getTime();var list=this.flashObj.read();if(list==null){list=""}list=list.split(/;(?!\])/i);var newList=[],update=false;var data;for(var i=0;i<list.length;i++){data=list[i].match(/(.*?)\=(.*?),expires=(\d*)/i);if(data==null){continue}if(data.length<4){continue}if(data[1]==name){if(value!=""){newList.push(name+"="+value+expire)}update=true}else{if(new Date(new Number(data[3]))>now&&data[2]!=""){newList.push(list[i])}}}if(!update){newList.push(name+"="+value+expire)}var newStr="";for(var i=0;i<newList.length;i++){if(newStr!=""){newStr+=";"}newStr+=newList[i]}this.flashObj.write(newStr)},load:function(){try{this.flashObj=this.$(this.id).contentWindow.flashData.flashObj;this.status="ok"}catch(e){}if(this.onload){this.onload()}}};var local_unique="";var loaded=false;function createFlashIFrame(){var iframe=document.createElement("iframe");iframe.src="http://beacon.sina.com.cn/data.html";iframe.id="sudaDataFrame";iframe.style.height="0px";iframe.style.width="1px";iframe.style.overflow="hidden";iframe.frameborder="0";iframe.scrolling="no";document.getElementsByTagName("head")[0].appendChild(iframe)}function getMeta(metaName,pidx){var pMeta=doc.getElementsByName(metaName);var idx=(pidx>0)?pidx:0;return(pMeta.length>idx)?pMeta[idx].content:""}function getSudaMeta(){var pMeta=doc.getElementsByName("sudameta");var meta=[];for(var idx=0;idx<pMeta.length;idx++){var content=pMeta[idx].content;if(content){meta.push(content)}}return meta}function stringSplice(src,k,e,sp){if(src==""){return""}sp=(sp=="")?"=":sp;k+=sp;var ps=src.indexOf(k);if(ps<0){return""}ps+=k.length;var pe=src.indexOf(e,ps);if(pe<ps){pe=src.length}return src.substring(ps,pe)}function getCookie(ckName){if(undefined==ckName||""==ckName){return""}return stringSplice(doc.cookie,ckName,";","")}function setCookie(ckName,ckValue,ckDays,ckDomain){if(ckValue!=null){if((undefined==ckDomain)||(null==ckDomain)){ckDomain="sina.com.cn"}if((undefined==ckDays)||(null==ckDays)||(""==ckDays)){doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";path=/"}else{var now=new Date();var time=now.getTime();time=time+86400000*ckDays;now.setTime(time);time=now.getTime();doc.cookie=ckName+"="+ckValue+";domain="+ckDomain+";expires="+now.toUTCString()+";path=/"}}}function addEvent(sNode,sEventType,oFunc){var oElement=sNode;if(oElement==null){return false}sEventType=sEventType||"click";if((typeof oFunc).toLowerCase()!="function"){return}if(oElement.attachEvent){oElement.attachEvent("on"+sEventType,oFunc)}else{if(oElement.addEventListener){oElement.addEventListener(sEventType,oFunc,false)}else{oElement["on"+sEventType]=oFunc}}return true}function getEvent(){if(window.event!=null){return window.event}else{if(window.event){return window.event}var o=arguments.callee.caller;var e;var n=0;while(o!=null&&n<40){e=o.arguments[0];if(e&&(e.constructor==Event||e.constructor==MouseEvent||e.constructor==KeyboardEvent)){return e}n++;o=o.caller}return e}}function fixEvent(e){e=e||getEvent();if(!e.target){e.target=e.srcElement;e.pageX=e.x;e.pageY=e.y}if(typeof e.layerX=="undefined"){e.layerX=e.offsetX}if(typeof e.layerY=="undefined"){e.layerY=e.offsetY}return e}function trim(str){if(typeof str!=="string"){throw"trim need a string as parameter"}var len=str.length;var s=0;var reg=/(\u3000|\s|\t|\u00A0)/;while(s<len){if(!reg.test(str.charAt(s))){break}s+=1}while(len>s){if(!reg.test(str.charAt(len-1))){break}len-=1}return str.slice(s,len)}function isArray(o){return Object.prototype.toString.call(o)==="[object Array]"}function queryToJson(QS,isDecode){var _Qlist=trim(QS).split("&");var _json={};var _fData=function(data){if(isDecode){return decodeURIComponent(data)}else{return data}};for(var i=0,len=_Qlist.length;i<len;i++){if(_Qlist[i]){var _hsh=_Qlist[i].split("=");var _key=_hsh[0];var _value=_hsh[1];if(_hsh.length<2){_value=_key;_key="$nullName"}if(!_json[_key]){_json[_key]=_fData(_value)}else{if(isArray(_json[_key])!=true){_json[_key]=[_json[_key]]}_json[_key].push(_fData(_value))}}}return _json}function foreach(arr,func){for(var i=0,len=arr.length;i<len;i++){func(arr[i],i)}}function getHost(sUrl){var r=new RegExp("^http(?:s)?://([^/]+)","im");if(sUrl.match(r)){return sUrl.match(r)[1].toString()}else{return""}}function ssoDecode(inputString){if("v01"!=inputString.substring(0,3)){return inputString}var input=inputString.substring(3);var output="";var chr1,chr2,chr3;var enc1,enc2,enc3,enc4;var i;var keys=[];for(i=0;i<=64;i++){keys[i+128]=i}i=0;while(i<input.length){enc1=keys[parseInt(input.substr(i,2),16)];i+=2;enc2=keys[parseInt(input.substr(i,2),16)];i+=2;enc3=keys[parseInt(input.substr(i,2),16)];i+=2;enc4=keys[parseInt(input.substr(i,2),16)];i+=2;chr1=(enc1<<2)|(enc2>>4);chr2=((enc2&15)<<4)|(enc3>>2);chr3=((enc3&3)<<6)|enc4;output=output+String.fromCharCode(chr1);if(enc3!=undefined&&enc3!=64){output=output+String.fromCharCode(chr2)}if(enc4!=undefined&&enc4!=64){output=output+String.fromCharCode(chr3)}}return output}var CI={screenSize:function(){return(commonType&8388608==8388608)?scr.width+"x"+scr.height:""},colorDepth:function(){return(commonType&4194304==4194304)?scr.colorDepth:""},appCode:function(){return(commonType&2097152==2097152)?nav.appCodeName:""},appName:function(){return(commonType&1048576==1048576)?((nav.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":nav.appName):""},cpu:function(){return(commonType&524288==524288)?(nav.cpuClass||nav.oscpu):""},platform:function(){return(commonType&262144==262144)?(nav.platform):""},jsVer:function(){if(commonType&131072!=131072){return""}var p,appsign,appver,jsver=1,isN6=0,navigatorAppName=(nav.appName.indexOf("Microsoft Internet Explorer")>-1)?"MSIE":nav.appName,navigatorAppVersion=nav.appVersion;if("MSIE"==navigatorAppName){appsign="MSIE";p=navigatorAppVersion.indexOf(appsign);if(p>=0){appver=window.parseInt(navigatorAppVersion.substring(p+5));if(3<=appver){jsver=1.1;if(4<=appver){jsver=1.3}}}}else{if(("Netscape"==navigatorAppName)||("Opera"==navigatorAppName)||("Mozilla"==navigatorAppName)){jsver=1.3;appsign="Netscape6";p=navigatorAppVersion.indexOf(appsign);if(p>=0){jsver=1.5}}}return jsver},network:function(){if(commonType&65536!=65536){return""}var ct="";ct=(nav.connection&&nav.connection.type)?nav.connection.type:ct;try{doc.body.addBehavior("#default#clientCaps");ct=doc.body.connectionType}catch(e){ct="unkown"}return ct},language:function(){return(commonType&32768==32768)?(nav.systemLanguage||nav.language):""},timezone:function(){return(commonType&16384==16384)?(new Date().getTimezoneOffset()/60):""},flashVer:function(){if(commonType&8192!=8192){return""}var pl=nav.plugins,flash,item,desc;if(pl&&pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(flash!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("flash")!=-1){flash=item.version?parseInt(item.version):desc.match(/\d+/);continue}}}else{if(window.ActiveXObject){for(var i=10;i>=2;i--){try{var object=new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);if(object){flash=i;break}}catch(e){}}}else{if(ua.indexOf("webtv/2.5")!=-1){flash=3}else{if(ua.indexOf("webtv")!=-1){flash=2}}}}return flash},javaEnabled:function(){if(commonType&4096!=4096){return""}var pl=nav.plugins,java=nav.javaEnabled(),item,desc;if(java==true){return 1}if(pl&&pl.length){for(var key in pl){item=pl[key];if(item.description==null){continue}if(java!=null){break}desc=item.description.toLowerCase();if(desc.indexOf("java plug-in")!=-1){java=parseInt(item.version);continue}}}else{if(window.ActiveXObject){java=(new ActiveXObject("JavaWebStart.IsInstalled")!=null)}}return java?1:0}};var PI={pageId:function(pageid){var pid=pageid||sudaPageid,defaultPageID="-9999-0-0-1";if((undefined==pid)||(""==pid)){try{var metaTxt=getMeta("publishid");if(""!=metaTxt){var pbidList=metaTxt.split(",");if(pbidList.length>0){if(pbidList.length>=3){defaultPageID="-9999-0-"+pbidList[1]+"-"+pbidList[2]}pid=pbidList[0]}}else{pid="0"}}catch(e){pid="0"}pid=pid+defaultPageID}return pid},sessionCount:function(){var count=getCookie("_s_upa");if(count==""){count=0}return count},excuteCount:function(){return SUDA.sudaCount},referrer:function(){if(commonType&2048!=2048){return""}var re=/^[^\?&#]*.swf([\?#])?/;if((sudaRef=="")||(sudaRef.match(re))){var ref=stringSplice(loc,"ref","&","");if(ref!=""){return escape(ref)}}return escape(sudaRef)},isHomepage:function(){if(commonType&1024!=1024){return""}var isHome="";try{doc.body.addBehavior("#default#homePage");isHome=doc.body.isHomePage(loc)?"Y":"N"}catch(e){isHome="unkown"}return isHome},PGLS:function(){return(commonType&512==512)?getMeta("stencil"):""},ZT:function(){if(commonType&256!=256){return""}var zt=getMeta("subjectid");zt.replace(",",".");zt.replace(";",",");return escape(zt)},mediaType:function(){return(commonType&128==128)?getMeta("mediaid"):""},domCount:function(){return(commonType&64==64)?doc.getElementsByTagName("*").length:""},iframeCount:function(){return(commonType&32==32)?doc.getElementsByTagName("iframe").length:""}};var UI={visitorId:function(gid){if(!gid){var gid=getCookie(cookie_SINAGLOBAL);return gid}else{}},fvisitorId:function(fid){if(!fid){var fid=getCookie(cookie_For_Flash);return fid}else{setCookie(cookie_For_Flash,fid,3650)}},sessionId:function(){var sid=getCookie(cookie_Apache);if(""==sid){var now=new Date();sid=Math.random()*10000000000000+"."+now.getTime()}return sid},flashCookie:function(gid){if(gid){flashData.write("local_unique",gid,24*360)}else{return local_unique}},lastVisit:function(){var sid=getCookie(cookie_Apache);var lvi=getCookie(cookie_ULV);var lva=lvi.split(":");var lvr="",lvn;if(lva.length>=6){if(sid!=lva[4]){lvn=new Date();var lvd=new Date(window.parseInt(lva[0]));lva[1]=window.parseInt(lva[1])+1;if(lvn.getMonth()!=lvd.getMonth()){lva[2]=1}else{lva[2]=window.parseInt(lva[2])+1}if(((lvn.getTime()-lvd.getTime())/86400000)>=7){lva[3]=1}else{if(lvn.getDay()<lvd.getDay()){lva[3]=1}else{lva[3]=window.parseInt(lva[3])+1}}lvr=lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3];lva[5]=lva[0];lva[0]=lvn.getTime();setCookie(cookie_ULV,lva[0]+":"+lva[1]+":"+lva[2]+":"+lva[3]+":"+sid+":"+lva[5],360)}else{lvr=lva[5]+":"+lva[1]+":"+lva[2]+":"+lva[3]}}else{lvn=new Date();lvr=":1:1:1";setCookie(cookie_ULV,lvn.getTime()+lvr+":"+sid+":",360)}return lvr},userNick:function(){if(loginUserInfo!=""){return loginUserInfo}var sup=unescape(getCookie(cookie_SUP));if(sup!=""){var ag=stringSplice(sup,"ag","&","");var user=stringSplice(sup,"user","&","");var uid=stringSplice(sup,"uid","&","");var sex=stringSplice(sup,"sex","&","");var bday=stringSplice(sup,"dob","&","");loginUserInfo=ag+":"+user+":"+uid+":"+sex+":"+bday;return loginUserInfo}else{return""}},userOrigin:function(){if(commonType&4!=4){return""}var uoc=getCookie(cookie_UOR);var upa=uoc.split(":");if(upa.length>=2){return upa[0]}else{return""}},advCount:function(){return(commonType&2==2)?getCookie(cookie__s_acc):""},setUOR:function(){var uoc=getCookie(cookie_UOR),uor="",uol="",up_t="",up="",currLoc=loc.toLowerCase(),ref=doc.referrer.toLowerCase();var re=/[&|?]c=spr(_[A-Za-z0-9]{1,}){3,}/;var ct=new Date();if(currLoc.match(re)){up_t=currLoc.match(re)[0]}else{if(ref.match(re)){up_t=ref.match(re)[0]}}if(up_t!=""){up_t=up_t.substr(3)+":"+ct.getTime()}if(uoc==""){if(getCookie(cookie_ULV)==""){uor=getHost(ref);uol=getHost(currLoc)}setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}else{var ucg=0,uoa=uoc.split(",");if(uoa.length>=1){uor=uoa[0]}if(uoa.length>=2){uol=uoa[1]}if(uoa.length>=3){up=uoa[2]}if(up_t!=""){ucg=1}else{var upa=up.split(":");if(upa.length>=2){var upd=new Date(window.parseInt(upa[1]));if(upd.getTime()<(ct.getTime()-86400000*30)){ucg=1}}}if(ucg){setCookie(cookie_UOR,uor+","+uol+","+up_t,365)}}},setAEC:function(eid){if(""==eid){return}var acc=getCookie(cookie__s_acc);if(acc.indexOf(eid+",")<0){acc=acc+eid+","}setCookie(cookie__s_acc,acc,7)},ssoInfo:function(){var info=unescape(ssoDecode(getCookie("sso_info")));if(info!=""){var uid=stringSplice(info,"uid","&","");return uid}else{return""}}};var D={CI:function(){var data=["sz:"+CI.screenSize(),"dp:"+CI.colorDepth(),"ac:"+CI.appCode(),"an:"+CI.appName(),"cpu:"+CI.cpu(),"pf:"+CI.platform(),"jv:"+CI.jsVer(),"ct:"+CI.network(),"lg:"+CI.language(),"tz:"+CI.timezone(),"fv:"+CI.flashVer(),"ja:"+CI.javaEnabled()];return"CI="+data.join("|")},PI:function(pid){var data=["pid:"+PI.pageId(pid),"st:"+PI.sessionCount(),"et:"+PI.excuteCount(),"ref:"+PI.referrer(),"hp:"+PI.isHomepage(),"PGLS:"+PI.PGLS(),"ZT:"+PI.ZT(),"MT:"+PI.mediaType(),"keys:","dom:"+PI.domCount(),"ifr:"+PI.iframeCount()];return"PI="+data.join("|")},UI:function(){var data=["vid:"+UI.visitorId(),"sid:"+UI.sessionId(),"lv:"+UI.lastVisit(),"un:"+UI.userNick(),"uo:"+UI.userOrigin(),"ae:"+UI.advCount(),"lu:"+UI.fvisitorId(),"si:"+UI.ssoInfo()];return"UI="+data.join("|")},EX:function(extInfo1,extInfo2){if(commonType&1!=1){return""}extInfo1=(null!=extInfo1)?extInfo1||"":sudaExt1;extInfo2=(null!=extInfo2)?extInfo2||"":sudaExt2;return"EX=ex1:"+extInfo1+"|ex2:"+extInfo2},MT:function(){return"MT="+getSudaMeta().join("|")},V:function(){return"V=2.1.4"},R:function(){return"gUid_"+new Date().getTime()}};function setEntry(){var e="-",ref=doc.referrer.toLowerCase(),currLoc=loc.toLowerCase();if(""==getCookie(cookie__s_tentry)){if(""!=ref){e=getHost(ref)}setCookie(cookie__s_tentry,e,"","weibo.com")}var vlogin=/weibo.com\/reg.php/;if(currLoc.match(vlogin)){var sharehost=stringSplice(unescape(currLoc),"sharehost","&","");var appkey=stringSplice(unescape(currLoc),"appkey","&","");if(""!=sharehost){setCookie(cookie__s_tentry,sharehost,"","weibo.com")}setCookie("appkey",appkey,"","weibo.com")}}function sendFinalRequest(url){createRequest(url)}function createRequest(url){var img=new Image();SUDA.img=img;img.src=url}function gatherCommon(pid,ext1,ext2){SUDA.sudaCount++;var url=a_gif+[D.V(),D.CI(),D.PI(pid),D.UI(),D.MT(),D.EX(ext1,ext2),D.R()].join("&");createRequest(url)}function gatherCommon2(pid,ext1,ext2){if(inFrame||isMetaFresh){return}if(SUDA.sudaCount!=0){return}gatherCommon(pid,ext1,ext2)}function acTrack(eid,p){if((""==eid)||(undefined==eid)){return}UI.setAEC(eid);if(0==p){return}var s="AcTrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+eid+"||";var url=e_gif+s+"&gUid_"+new Date().getTime();sendFinalRequest(url)}function uaTrack(acode,aext,href){if(!href){href=""}else{href=escape(href)}var s="UATrack||"+getCookie(cookie_SINAGLOBAL)+"||"+getCookie(cookie_Apache)+"||"+UI.userNick()+"||"+acode+"||"+aext+"||"+PI.referrer()+"||"+href+"||";var url=e_gif+s+"&gUid_"+new Date().getTime();sendFinalRequest(url)}function trackAgent(e){var evt=fixEvent(e);var el=evt.target;var sudaAcTrack="",sudaUaTrack="",href="";var trackData;if(el!=null&&el.getAttribute&&(!el.getAttribute("suda-uatrack")&&!el.getAttribute("suda-actrack")&&!el.getAttribute("suda-data"))){while(el!=null&&el.getAttribute&&(!!el.getAttribute("suda-uatrack")||!!el.getAttribute("suda-actrack")||!!el.getAttribute("suda-data"))==false){if(el==doc.body){return}el=el.parentNode}}if(el==null||el.getAttribute==null){return}sudaAcTrack=el.getAttribute("suda-actrack")||"";sudaUaTrack=el.getAttribute("suda-uatrack")||el.getAttribute("suda-data")||"";sudaUrls=el.getAttribute("suda-urls")||"";if(sudaUaTrack){trackData=queryToJson(sudaUaTrack);if(el.tagName.toLowerCase()=="a"){href=el.href}trackData.key&&SUDA.uaTrack&&SUDA.uaTrack(trackData.key,trackData.value||trackData.key,href)}if(sudaAcTrack){trackData=queryToJson(sudaAcTrack);trackData.key&&SUDA.acTrack&&SUDA.acTrack(trackData.key,trackData.value||trackData.key)}}inFrame=(function(minH,minW){if(win.top==win){return false}else{try{if(doc.body.clientHeight==0){return false}return((doc.body.clientHeight>=minH)&&(doc.body.clientWidth>=minW))?false:true}catch(e){return true}}})(320,240);isMetaFresh=(function(){return false})();UI.setUOR();var sid=UI.sessionId();if(!UI.visitorId()){UI.visitorId(sid)}window.SUDA=window.SUDA||[];SUDA.sudaCount=SUDA.sudaCount||0;SUDA.log=function(){gatherCommon.apply(null,arguments)};SUDA.acTrack=function(){acTrack.apply(null,arguments)};SUDA.uaTrack=function(){uaTrack.apply(null,arguments)};addEvent(doc.body,"click",trackAgent);window.GB_SUDA=SUDA;GB_SUDA._S_pSt=function(){};GB_SUDA._S_acTrack=function(){acTrack.apply(null,arguments)};GB_SUDA._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_pSt=function(){};window._S_acTrack=function(){acTrack.apply(null,arguments)};window._S_uaTrack=function(){uaTrack.apply(null,arguments)};window._S_PID_="";gatherCommon2()})();
+//-->
+</script> 
+<noScript> 
+<div style='position:absolute;top:0;left:0;width:0;height:0;visibility:hidden'><img width=0 height=0 src='http://beacon.sina.com.cn/a.gif?noScript' border='0' alt='' /></div> 
+</noScript> 
+<!-- SUDA_CODE_END -->
+
+<!-- for iPad begin -->
+<script type="text/javascript">
+(function(){
+if(!/\((iPhone|iPad|iPod)/i.test(navigator.userAgent)){return};
+var iPadScript = document.createElement('script');
+iPadScript.src = 'http://news.sina.com.cn/js/ui/ipad/reset.js';
+document.getElementsByTagName('head')[0].appendChild(iPadScript);
+})();
+</script>
+<!-- for iPad end --> 
+
+<!-- SSO_GETCOOKIE_START -->
+<script type="text/javascript">var sinaSSOManager=sinaSSOManager||{};sinaSSOManager.getSinaCookie=function(){function dc(u){if(u==undefined){return""}var decoded=decodeURIComponent(u);return decoded=="null"?"":decoded}function ps(str){var arr=str.split("&");var arrtmp;var arrResult={};for(var i=0;i<arr.length;i++){arrtmp=arr[i].split("=");arrResult[arrtmp[0]]=dc(arrtmp[1])}return arrResult}function gC(name){var Res=eval("/"+name+"=([^;]+)/").exec(document.cookie);return Res==null?null:Res[1]}var sup=dc(gC("SUP"));if(!sup){sup=dc(gC("SUR"))}if(!sup){return null}return ps(sup)};</script>
+<!-- SSO_GETCOOKIE_END -->
+
+<script type="text/javascript">new function(r,s,t){this.a=function(n,t,e){if(window.addEventListener){n.addEventListener(t,e,false);}else if(window.attachEvent){n.attachEvent("on"+t,e);}};this.b=function(f){var t=this;return function(){return f.apply(t,arguments);};};this.c=function(){var f=document.getElementsByTagName("form");for(var i=0;i<f.length;i++){var o=f[i].action;if(this.r.test(o)){f[i].action=o.replace(this.r,this.s);}}};this.r=r;this.s=s;this.d=setInterval(this.b(this.c),t);this.a(window,"load",this.b(function(){this.c();clearInterval(this.d);}));}(/http:\/\/www\.google\.c(om|n)\/search/, "http://keyword.sina.com.cn/searchword.php", 250);</script>
+
+
+<!--顶部导航 -->
+<style>
+.wrap{width:1000px;margin:0 auto;}
+
+.link-fff{color:#fff}
+.link-fff:visited{color:#fff}
+.link-fff:hover{color:#ff8900}
+/*导航*/
+.header { height:45px; background:#383838;}
+.nav-wrap{min-width:1000px;width:100%;z-index:10;left:0; background:url(http://guangdong.sinaimg.cn/images/2013fashion/top-bg.gif) repeat-x 0 -49px; height:45px; }
+.nav-wrap .nav{line-height:45px;font-family:"Microsoft Yahei","微软雅黑","SimHei"}
+.nav-wrap .nav a:hover{text-decoration:none}
+.nav-wrap .nav .close{ display:block; margin-top:10px;padding:0!important;float:right}
+.nav-wrap .fixed_ .nav a{padding:0 14px}
+.nav-wrap .nav ul{font-size:14px}
+.nav-wrap .nav li{_display:inline; float:right;}
+.nav-wrap .nav .current{color:#fcd108;}
+.nav-wrap .nav a{padding:0 14px}
+.nav-wrap .nav a:hover{color:#fcd108;}
+.nav-wrap .nav .close{width:84px;height:24px; background-image:url(http://guangdong.sinaimg.cn/images/2013fashion/common.png); background-position:-2560px -108px}
+.nav-wrap .nav .close:hover{background-image:url(http://guangdong.sinaimg.cn/images/2013fashion/common.png);background-position:-2645px -108px}
+.nav-wrap .nav .line{background:url(http://guangdong.sinaimg.cn/images/2013fashion/top-bg.gif) 0 -98px no-repeat}
+.nav-wrap .nav-place{position:relative; width:1000px; height:45px}
+.nav-wrap .nav-place .nav-p1{position:absolute; width:180px; height:45px}
+.nav-wrap .nav-place .nav-p2{position: absolute; width: 199px; height: 45px; padding-right: 10px; left: 199px; text-align: right; background: url(http://guangdong.sinaimg.cn/news/jiaodu/top_bg.png) 
+
+no-repeat 100% 0;}
+.nav-wrap .nav-place .nav-p3{position: absolute; width: 505px; height: 45px; left: 407px; background: url(http://guangdong.sinaimg.cn/news/jiaodu/top_bg.png) no-repeat 100% 0;}
+
+.nav-wrap .nav .nav-p3 a{padding:0 8px}
+</style>
+<div class="header">
+    <div class="nav-wrap">
+        <div class="wrap">
+            <div class="nav nav-place">
+                <div class="nav-p1">
+                        <ul>
+                        <li><a href="http://www.sina.com.cn/" class="link-fff">新浪首页</a></li>
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://gd.sina.com.cn/" class="link-fff">新浪广东</a></li>
+                        </ul>
+                    </div>
+                     <div class="nav-p2">
+                        <ul>
+                        <li><a href="http://login.sina.com.cn/signup/signin.php?r=http://gd.sina.com.cn" class="link-fff">登录</a></li>
+            <li class="line">&nbsp;</li>
+            <li><a href="http://weibo.com" class="link-fff" target="_blank">新浪微博</a></li>
+                        </ul>
+                    </div>
+                    <div class="nav-p3">
+                        <ul>            
+                        <li><a href="http://gd.sina.com.cn/sitemap.html" class="link-fff" target="_blank">网站地图</a></li> 
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://gd.sina.com.cn/city" class="link-fff" target="_blank">城市</a></li>  
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://thuigou.sina.com.cn/" class="link-fff" target="_blank">惠购</a></li>
+                        <li class="line">&nbsp;</li>   
+                        <li><a href="http://gd.sina.com.cn/finance" class="link-fff"  target="_blank">财经</a></li>
+                        <li class="line">&nbsp;</li>                                                                                               
+                        <li><a href="http://gd.sina.com.cn/fashion/" class="link-fff" target="_blank">时尚</a></li>
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://gd.travel.sina.com.cn/" class="link-fff" target="_blank">旅游</a></li>
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://eat.gd.sina.com.cn/" class="link-fff" target="_blank">美食</a></li>
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://auto.sina.com.cn/city/gz/" class="link-fff" target="_blank">汽车</a></li>
+                        <li class="line">&nbsp;</li>
+                        <li><a href="http://gd.sina.com.cn/news/" class="link-fff" target="_blank">城事</a></li>
+                        </ul>
+                    </div>
+                <a class="close" href="javascript:void(0);"></a>
+            </div>
+        </div>
+    </div>
+</div>   
+<!--顶部导航-->  
+
+<div class="box ld box1">
+    <div class="pic ld">
+        <img class="block" src="images/zhaoshang.jpg" alt="">
+        <!-- <img class="block hide" src="img/pic1.png" alt=""> -->
+        <!-- <img class="block hide" src="img/pic1.png" alt=""> -->
+    </div>
+    <div class="hide block hand"></div>
+    <div class="hide block hand right"></div>
+</div>
+<div class="box box2 ld">
+    <ul class="w lh ld barbox">
+        <li></li>
+        <li></li>
+        <li></li>
+        <li class="last"></li>
+        <li class="block bar last ani"></li>
+    </ul>
+    <ul class="w lh navbox">
+        <li>
+            <a href=""><p>顺德经济聚焦</p>
+                <span>Economics</span></a>
+        </li>
+        <li>
+            <a href=""><p>投资顺德</p>
+                <span>Investment</span></a>
+        </li>
+        <li>
+            <a href=""><p>图解顺德</p>
+                <span>Picture</span></a>
+        </li>
+        <li>
+            <a href=""><p>园区简介</p>
+                <span>Introduction</span></a>
+        </li>
+    </ul>
+</div>
+<div class="w part part1">
+    <div class="title title1">
+        <p></p>
+    </div>
+        <div class="part01 clearfix">
+            <div class="p01_left">
+                <!-- 首屏焦点图 begin -->
+                <div class="mod_focus">
+                    <div id="focus2" class="focus">
+
+                        <ul class="focusImgs">
+
+                            <li>
+                                <a target="_blank" href="http://gd.sina.com.cn/fs/yaowen/2014-12-24/153622829.html">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2014/1225/U10867P693DT20141225145617.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/yaowen/2014-12-24/153622829.html">首家进口食品O2O电商在顺德亮相</a>
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+ <li>
+                              <a target="_blank" href="http://gd.sina.com.cn/fs/yaowen/2015-01-05/070923988.html">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2015/0105/U10955P693DT20150105103314.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/yaowen/2015-01-05/070923988.html">顺德公交"微笑姐"获好评</a>
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+ <li>
+                                <a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-05/083924020.html">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2015/0105/U10955P693DT20150105103438.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-05/083924020.html">"喜羊羊"公园卖萌 顺德社会企业求关注</a>
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+<li>
+                                 <a target="_blank" href="http://gd.sina.com.cn/fs/zt/sdcity/index.shtml">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2014/1117/U10955P693DT20141117173050.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/zt/sdcity/index.shtml">顺德美丽蝶变之路</a>
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-04/084923904.html">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2015/0105/U10955P693DT20150105105519.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-04/084923904.html">尾气排放超标的机动车禁止在顺德上路</a>
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+                            <li>
+                                <a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-04/110123924.html">
+                                    <img width="483" height="360" src="http://guangdong.sinaimg.cn/2015/0105/U10955P693DT20150105104021.jpg">
+                                </a>
+                                <h3 class="tit yh f18"><a target="_blank" href="http://gd.sina.com.cn/fs/wuqu/2015-01-04/110123924.html">南医大举办义跑活动 1人跑企业捐1元</a>
+
+                                </h3>
+                                <div class="bg"></div>
+                            </li>
+
+                            <li>
+
+                        </ul>
+
+                        <div class="foucsTit">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                        <!-- 编辑不需要修改 -->
+                        <div class="focusBtnL">
+                            <span></span>
+                            <img width="100" height="56" src="http://img1.gtimg.com/sports/pics/hv1/184/225/1277/83094484.jpg" alt="" />
+                        </div>
+                        <div class="focusBtnR">
+                            <span></span>
+                            <img width="100" height="56" src="http://img1.gtimg.com/sports/pics/hv1/81/230/1280/83290731.jpg" alt="" />
+                        </div>
+                        <!-- 编辑不需要修改 -->
+                    </div>
+                </div>
+                <script src="http://guangdong.sinaimg.cn/js/Qfast1.0.1.js" type="text/javascript"></script>
+                <script src="http://guangdong.sinaimg.cn/js/min.1.3.3.js" type="text/javascript"></script>
+                <script type="text/javascript">
+                Qfast.add('fx', {
+                    path: "http://mat1.gtimg.com/joke/Koala/plusfx1.0.min.js",
+                    type: "js"
+                });
+                Qfast.add('focus', {
+                    path: "http://sports.qq.com/index2013/index_focus.js",
+                    type: "js",
+                    requires: ['fx']
+                });
+                Qfast(false, 'focus', function() {
+                    K.Focus({
+                        focus: "focus2",
+                        bigImg: ".focusImgs",
+                        bigTag: "img",
+                        number: ".foucsTit",
+                        numberTag: "span",
+                        BTL: ".focusBtnL",
+                        BTLhover: "focusBtnLHover",
+                        BTR: ".focusBtnR",
+                        BTRhover: "focusBtnRHover",
+                        Timer: "8000"
+                    });
+                });
+                </script>
+                <!-- 首屏焦点图 end -->
+            </div>
+            <dl class="p01_right">
+                <a href="http://gd.sina.com.cn/news/city/index.html" target="blank">
+                    <dt></dt>
+                </a>
+                <dd>
+
+                    <div class="p01_r_cont1">
+                        <div class="blk01 clearfix">
+                            <div class="b01_left">
+                                <h1><a href="http://gd.sina.com.cn/fs/yaowen/2015-01-04/083423896.html" target="_blank">2名重症患者病情转轻</a> 
+                                </h1>
+                                <p>富华燃爆事故2名重症患者病情转轻<a href="http://gd.sina.com.cn/fs/yaowen/2015-01-04/083423896.html" target="_blank">[详细]</a>
+                                </p>
+                            </div>
+                            <div class="b01_right">
+                                <p>
+                                    <span>
+                                        <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-04/083423896.html" target="_blank">顺德卫计局微博发布:富华燃爆事故2名重症患者病情转轻</a>
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="blk02 clearfix">
+
+                            <div class="b02_left"><a href="http://gd.sina.com.cn/fs/yaowen/2015-01-04/080223878.html" target="_blank">走近顺德国家级非物质文化遗产</a> 
+                            </div>
+                            <div class="b02_right"><a href="http://gd.sina.com.cn/fs/yaowen/2015-01-03/090023826.html" target="_blank">鼠标一点 大盆菜能快递送上门</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="p01_r_cont2">
+                        <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"> <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-03/090223828.html" target="_blank">容桂查获假冒日化用品 市值300万</a>  | <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-03/084823820.html" target="_blank">富华爆燃事故死亡人数增至18人</a> 
+                        </p>
+
+                        <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"> <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-02/085423788.html" target="_blank">大良文化中心少儿汇报演出昨举行</a>  | <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-01/090623742.html" target="_blank">顺德司机路遇伤者马上救人</a> 
+                        </p>
+
+                        <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"> <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/080523574.html" target="_blank">七旬阿伯开车蹭倒老太撞坏交通灯</a>  | <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/082123584.html" target="_blank">资深瘾君子闯公安局报警寻妻</a> 
+                        </p>
+
+                        <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"> <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/083523594.html" target="_blank">北滘破特大假币案 两男卖160万假币</a>  | <a href="http://gd.sina.com.cn/fs/wuqu/2014-12-31/080123568.html" target="_blank">龙江动真格 整治提升家具业</a> 
+                        </p>
+                    <div class="p01_r_cont3 clearfix">
+                        <div class="p01_r_c3_left">
+                            <a href="http://gd.sina.com.cn/fs/photo/list.html" target="_blank">品时尚叹生活聊八卦</a>
+
+                        </div>
+                        <div class="p01_r_c3_right">
+                            <a href="http://gd.sina.com.cn/fs/yaowen/list.html" target="_blank">顺德资讯尽在新浪佛山顺德频道</a>
+
+                        </div>
+                    </div>
+                </dd>
+            </dl>
+        </div>
+</div>
+<div class="w part part4">
+    <div class="title title2">
+        <p></p>
+    </div>
+    <div class="navbox">
+        <ul class="lh">
+            <li><a href="javascript:void(0)">概览顺德</a></li>
+            <li><a href="javascript:void(0)">数览顺德</a></li>
+            <li><a href="javascript:void(0)">营商环境</a></li>
+            <li><a href="javascript:void(0)">观影顺德</a></li>
+        </ul>
+    </div>
+<script type="text/javascript" src="http://guangdong.sinaimg.cn/images/2013index/jslib.js" charset="utf-8"></script>
+    <div class="focus-wrap">
+
+        <!-- 大切换 -->
+        <div class="area head-slide-box" id="head-slide-box">
+            <style>
+                .overview {
+                    width: 900px;
+                }
+                .overview ul li {
+                    width: 210px;
+                    height: 190px;
+                    margin: 5px 7px 5px 5px ;
+                    float: left;
+                    background: #FFF;
+                    overflow: hidden;
+                }
+                .ov_st {
+                    padding: 10px 10px;
+                }
+                .ov_st2 {
+                    padding-left: 10px;
+                }
+                video {
+                    width: 890px;
+                    height: 400px;
+                }
+                video:hover {
+                    cursor: pointer;
+                }
+            </style>
+            <div class="head-slide-show">
+                <ul class="head-slides" id="head-slides" style="zoom: 1; height: 400px;">
+                    <!--头条-->
+                    <li class="area head-slide current">
+                        <div class="overview">
+                            <ul>
+                                <li><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-09-04/1614110.html" target="_blank"><img src="http://guangdong.sinaimg.cn/2014/1228/U10955P693DT20141228135748.jpg"></a></li>
+                                <li><h1 class="ov_st">尚菌轩</h1>
+                                    <p class="ov_st2"><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-09-04/1614110.html" target="_blank">简单新主义 勒流尚菌轩品出真滋味</a></p><br>
+                                    <p class="ov_st2">松茸被誉为“菌中之王”，是珍稀名贵的天然药用菌，不仅营养均衡充足，且具有抗癌的功效。尚菌轩的狮子头香甜软糯，加入了味道浓郁的松茸，一并熬制出口味独特的松茸狮子头汤。</p></li>
+                                <li><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-09-13/2146112.html" target="_blank"><img src="http://guangdong.sinaimg.cn/2014/1228/U10955P693DT20141228140211.jpg"></a></li>
+                                <li><h1 class="ov_st">桂花苑</h1>
+                                    <p class="ov_st2"><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-09-13/2146112.html" target="_blank">秋风渐起 桂花苑醉蟹正逢时</a></p><br>
+
+                                    <p class="ov_st2">位于顺德勒流众裕路9号的桂花苑，开张不久，却引来一众食客前往，只为一尝那远近闻名的醉蟹。</p></li>
+                            </ul>
+                            <ul>
+                                <li><h1 class="ov_st">"味道佛山"MV首发 </h1>
+                                    <p class="ov_st2"><a href="http://gd.sina.com.cn/fs/meishi/2014-12-30/092123442.html" target="_blank">陈柏宇最爱盲公饼</a></p><br>
+
+                                    <p class="ov_st2">香港流行音乐新生代歌手陈柏宇携其拍摄的佛山旅游美食MV《味道佛山》，正式与佛山市民见面。</p></li>
+                                <li><a href="http://gd.sina.com.cn/fs/meishi/2014-12-30/092123442.html" target="_blank"><img src="http://guangdong.sinaimg.cn/2014/1230/U10955P693DT20141230175243.jpg"></a></li>
+                                <li><h1 class="ov_st">乐从超班茶餐厅</h1>
+                                    <p class="ov_st2"><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-10-18/1457129.html" target="_blank">美味不停歇</a></p><br>
+                                    <p class="ov_st2">如今，要想品尝正宗的港式美食，已经不用特意前往香港了，到乐从天佑城的超班茶餐厅便可满足吃货们的心愿。</p>
+                                </li>
+                                <li><a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-10-18/1457129.html" target="_blank"><img src="http://guangdong.sinaimg.cn/2014/1229/U10955P693DT20141229182221.jpg"></a></li>
+                            </ul>
+                        </div>
+                        <div class="overflow-hidden" style="float:left;">
+                            <div class="head-text-wrap">
+                                <div class="head-text">
+
+                                    <h2><a href="http://gd.sina.com.cn/fs/jingji/2014-12-01/083121270.html" target="_blank">顺德英德经济合作区已吸引投资238亿元</a>
+                                    </h2>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/yaowen/2014-12-03/094821441.html" target="_blank">黄喜忠：企业生产安全摆在第一位</a>
+
+
+                                    </p><p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-28/171821185.html" target="_blank">佛山新城乐从镇启动百村升级行动计划 </a>
+
+                                </p></div>
+
+                            </div>
+
+                            <div class="head-text-wrap border">
+                                <div class="head-text">
+
+                                    <h2><a href="http://gd.sina.com.cn/fs/jingji/2014-12-02/081021355.html" target="_blank">龙江一月内查处两宗商标侵权案 货值超80万</a>
+                                    </h2>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-21/105320621.html" target="_blank">政协委员：体彩收益能否回归文体专用</a>
+                                    </p>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-21/091020596.html" target="_blank">顺德区府绩效网上评议启动 评议时间延长</a>
+                                    </p>
+
+                                </div>
+                            </div>
+
+                            <!--<div class="head-text-wrap1">
+        <div class="head-text1">
+            <p><a href="http://gd.sina.com.cn/news/rd.html#http://weibo.com/1684452940/AmPSAlpsi" target="_blank">抢@广东移动10086官方微博的mini2</a></p>
+            <p><a href="http://gd.sina.com.cn/news/" target="_blank">广东资讯尽在新浪广东城事</a></p>
+        </div>
+    </div>
+    -->
+                            <div class="head-text-wrap1">
+                                <div class="head-text1">
+                                    <p id="ad_link1"></p>
+                                    <p id="ad_link2"></p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+                    <!--头条 end-->
+
+                    <!--城事-->
+                    <li class="area head-slide" style="zoom: 1;">
+                        <div class="focus-food-wrap7">
+                            <a href="http://gd.sina.com.cn/fs/wuqu/2014-12-25/083822867.html" target="_blank">
+                                <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231142747.jpg" alt="大良跨年派对即将上演">
+                                <div class="pic-tips">
+                                    <p>大良跨年派对即将上演</p>
+                                </div>
+                            </a>
+                        </div>
+
+
+                    </li>
+                    <!--汽车 end-->
+
+                    <!--汽车-->
+                    <!--汽车 end-->
+
+                    <!--美食-->
+                    <li class="area head-slide">
+                        <div class="grid-u-12 tab-con-box-1 position-relative" id="dot-tab-box-2">
+                            <div class="tab-con-1 current">
+                                <a href="http://gd.sina.com.cn/fs/shizheng/2014-12-25/095222877.html" target="_blank">
+                                    <img src="http://guangdong.sinaimg.cn/2014/1225/U10867P693DT20141225151041.jpg" width="459" height="343" alt="黄喜忠巡视重点项目追问时间表">
+                                </a>
+                                <div class="semi-trans pl20w mt-45h-h45h">
+                                    <h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/shizheng/2014-12-25/095222877.html" class="cFFF" target="_blank">黄喜忠巡视重点项目追问时间表</a>
+                                    </h2>
+                                </div>
+                            </div>
+
+                            <div class="tab-con-1">
+                                <a href="http://gd.sina.com.cn/fs/shizheng/2014-12-02/160621394.html" target="_blank">
+                                    <img src="http://guangdong.sinaimg.cn/2014/1203/U10955P693DT20141203100819.jpg" width="459" height="343" alt="顺德区紧急开展大气污染防治专项行动">
+                                </a>
+                                <div class="semi-trans pl20w mt-45h-h45h">
+                                    <h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/shizheng/2014-12-02/160621394.html" class="cFFF" target="_blank">顺德区紧急开展大气污染防治专项行动
+
+                                    </a>
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="tab-con-1">
+                                <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-01/072321245.html" target="_blank">
+                                    <img src="http://guangdong.sinaimg.cn/2014/1202/U10955P693DT20141202093417.jpg" width="459" height="343" alt="五区书记炼成记 多人拥有企业工作背景">
+                                </a>
+                                <div class="semi-trans pl20w mt-45h-h45h">
+                                    <h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/yaowen/2014-12-01/072321245.html" class="cFFF" target="_blank">五区书记炼成记 多人拥有企业工作背景</a>
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="tab-con-1">
+                                <a href="http://gd.sina.com.cn/fs/shizheng/2014-12-02/160721395.html" target="_blank">
+                                    <img src="http://guangdong.sinaimg.cn/2014/1203/U10955P693DT20141203101445.jpg" width="459" height="343" alt="黄喜忠区长主持召开区政府常务会议">
+                                </a>
+                                <div class="semi-trans pl20w mt-45h-h45h">
+                                    <h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/shizheng/2014-12-02/160721395.html" class="cFFF" target="_blank">黄喜忠区长主持召开区政府常务会议</a>
+                                    </h2>
+                                </div>
+                            </div>
+                            <div class="tab-con-1" id="sinaDFZADHomePageFocus">
+                                <a href="http://gd.sina.com.cn/fs/shizheng/2014-11-28/102521150.html" target="_blank">
+                                    <img src="http://guangdong.sinaimg.cn/2014/1212/U10661P693DT20141212154304.jpg" width="459" height="343" alt="区邦敏任顺德区委书记 梁维东挥师南海">
+                                </a>
+                                <div class="semi-trans pl20w mt-45h-h45h">
+                                    <h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-28/102521150.html" class="cFFF" target="_blank">区邦敏任顺德区委书记 梁维东挥师南海</a>
+                                    </h2>
+                                </div>
+
+                            </div>
+                            <ul class="dot-ctrls pb8h">
+                                <li class="dot-ctrl current"></li>
+
+                                <li class="dot-ctrl"></li>
+                                <li class="dot-ctrl"></li>
+                                <li class="dot-ctrl"></li>
+                                <li class="dot-ctrl"></li>
+                            </ul>
+                            <script>
+                                new Focus.ui.Slide(Focus("#dot-tab-box-2 .dot-ctrls > .dot-ctrl"), Focus("#dot-tab-box-2 > .tab-con-1"), "current", "mouseover", 2000);
+                            </script>
+                        </div>
+
+                        <div class="overflow-hidden" style="float:left;">
+                            <div class="head-text-wrap">
+                                <div class="head-text">
+
+                                    <h2><a href="http://gd.sina.com.cn/fs/jingji/2014-12-01/083121270.html" target="_blank">顺德英德经济合作区已吸引投资238亿元</a>
+                                    </h2>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/yaowen/2014-12-03/094821441.html" target="_blank">黄喜忠：企业生产安全摆在第一位</a>
+
+
+                                    </p><p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-28/171821185.html" target="_blank">佛山新城乐从镇启动百村升级行动计划 </a>
+
+                                </p></div>
+
+                            </div>
+
+                            <div class="head-text-wrap border">
+                                <div class="head-text">
+
+                                    <h2><a href="http://gd.sina.com.cn/fs/jingji/2014-12-02/081021355.html" target="_blank">龙江一月内查处两宗商标侵权案 货值超80万</a>
+                                    </h2>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-21/105320621.html" target="_blank">政协委员：体彩收益能否回归文体专用</a>
+                                    </p>
+
+                                    <p style="background:url(http://guangdong.sinaimg.cn/images/2013news/dian.jpg) no-repeat 0 50%; padding-left:12px;"><a href="http://gd.sina.com.cn/fs/shizheng/2014-11-21/091020596.html" target="_blank">顺德区府绩效网上评议启动 评议时间延长</a>
+                                    </p>
+
+                                </div>
+                            </div>
+
+                            <!--<div class="head-text-wrap1">
+        <div class="head-text1">
+            <p><a href="http://gd.sina.com.cn/news/rd.html#http://weibo.com/1684452940/AmPSAlpsi" target="_blank">抢@广东移动10086官方微博的mini2</a></p>
+            <p><a href="http://gd.sina.com.cn/news/" target="_blank">广东资讯尽在新浪广东城事</a></p>
+        </div>
+    </div>
+    -->
+                            <div class="head-text-wrap1">
+                                <div class="head-text1">
+                                    <p id="ad_link1"></p>
+                                    <p id="ad_link2"></p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </li>
+                    <!--美食 end -->
+
+                    <!--旅游-->
+                    <li class="area head-slide" style="zoom: 1;">
+                        <div class="grid-u-12 tab-con-box-1 position-relative" id="dot-tab-box-21">
+                            <div class="tab-con-1 current">
+                                <!--<video poster="http://guangdong.sinaimg.cn/2014/1225/U10867P693DT20141225152309.jpg">-->
+                                    <!--<source src="http://techslides.com/demos/sample-videos/small.webm" type="video/webm">-->
+                                    <!--<source src="http://techslides.com/demos/sample-videos/small.ogv" type="video/ogg">-->
+                                    <!--<source src="http://techslides.com/demos/sample-videos/small.mp4" type="video/mp4">-->
+                                    <!--<source src="http://techslides.com/demos/sample-videos/small.3gp" type="video/3gp">-->
+                                <!--</video>-->
+                                <!--<div class="semi-trans pl20w mt-45h-h45h">-->
+                                    <!--<h2 class="fB f12px pt14h"><a href="http://gd.sina.com.cn/fs/lvyou/2014-12-25/100422879.html" class="cFFF" target="_blank">旅游文化节平安夜开幕 音乐节派对千人倒数</a>-->
+                                    <!--</h2>-->
+                                <!--</div>-->
+                                <iframe height="400" width="889" src="http://player.youku.com/embed/XODQzOTMzMDI4" frameborder=0 allowfullscreen></iframe>
+                            </div>
+                        </div>
+                    </li>
+                    <!--旅游 end -->
+
+                    <!--时尚-->
+                    <!--时尚-->
+
+                </ul>
+
+                <div class="clear"></div>
+            </div>
+            <div class="head-slide-prev-next" id="head-slide-prev-next">
+                <a href="#" class="head-slide-prev" id="head-slide-prev">
+                    <span class="head-slide-arrow fB display-block cFFF"></span>
+                    <span class="f18px f-yahei display-block mt-9h cFFF">汽车</span>
+                </a>
+                <a href="#" class="head-slide-next" id="head-slide-next">
+                    <span class="head-slide-arrow fB display-block cFFF"></span>
+                    <span class="f18px f-yahei display-block mt-9h cFFF">美食</span>
+                </a>
+            </div>
+            <ul class="head-ctrls f14px f-yahei hide">
+                <li class="current">头条</li>
+                <li>城事</li>
+                <li>美食</li>
+                <li>旅游</li>
+            </ul>
+        </div>
+        <script src="http://guangdong.sinaimg.cn/images/2013index/slide.min.js" charset="gb2312"></script>
+        <script>
+        /*通用绑定事件方法 addEvent  */
+        var addEvent = function(elm, evType, fn, useCapture) {
+            if (elm.addEventListener) {
+                elm.addEventListener(evType, fn, useCapture); //DOM2.0
+                return true;
+            } else if (elm.attachEvent) {
+                var r = elm.attachEvent('on' + evType, fn); //IE5+
+                return r;
+            } else {
+                elm['on' + evType] = fn; //DOM 0
+            }
+        };
+        /* 头屏大切换 */
+        var headSlide = new Focus.ui.Carousel($(".part4 .navbox li"), $("#head-slides .head-slide"), "current", {
+            prev: $("#head-slide-prev"),
+            next: $("#head-slide-next"),
+            event: "click",
+            interval: 5000,
+            duration: 2000,
+            auto: Boolean(0)
+        });
+        headSlide.pause();
+        //自动替换左右按钮的文字
+        var headSlideTextArr = [],
+            headSlideTextCtrls = headSlide.ctrls,
+            headSlideNext = headSlide.options.next,
+            headSlideNextText = Focus(".f18px", headSlideNext),
+            headSlidePrev = headSlide.options.prev,
+            headSlidePrevText = Focus(".f18px", headSlidePrev);
+        var makeIndexCorrect = function(index) {
+            var tmpIndex = 0,
+                headslideLength = headSlide.total;
+            tmpIndex = (index < 0 ? index + headslideLength : index);
+            tmpIndex = (tmpIndex >= headslideLength ? tmpIndex - headslideLength : tmpIndex);
+            return tmpIndex;
+        };
+        var changeHeadSlideBtnText = function() {
+            // $('.part4 .navbox li').eq(headSlide.current).addClass('active').siblings().removeClass('active');
+            headSlidePrevText[0].innerHTML = headSlideTextArr[makeIndexCorrect(headSlide.current - 1)];
+            headSlideNextText[0].innerHTML = headSlideTextArr[makeIndexCorrect(headSlide.current + 1)];
+        };
+        for (i = 0, len = headSlideTextCtrls.length; i < len; i++) {
+            headSlideTextArr.push(headSlideTextCtrls[i].innerHTML);
+            addEvent(headSlideTextCtrls[i], "click", changeHeadSlideBtnText);
+        }
+        addEvent(headSlidePrev, "click", changeHeadSlideBtnText);
+        addEvent(headSlideNext, "click", changeHeadSlideBtnText);
+        headSlide.cycle = function(e) {
+            var t = this;
+            if (!e) t.paused = false;
+            if (t.options.auto) {
+                var optionsGap = t.current === 1 ? t.options.interval * 0 : t.options.interval;
+                optionsGap = t.current === 0 ? 10000 : optionsGap;
+                t.interval = setTimeout(function() { ////开始自动循环
+                        t.next();
+                    },
+                    optionsGap
+                );
+            }
+            return this;
+        };
+        if (headSlide.options.auto) {
+            headSlide.cycle();
+        }
+        </script>
+
+    </div>
+
+</div>
+<style>
+    .part5{
+        height: 350px;
+    }
+    .part5 .title5{}
+    .part5 .content{}
+    .part5 .content li{
+        width: 280px;
+        height: 280px;
+		
+		/*特色栏目*/
+.list-tese{ position:relative; color:#666;}
+.list-tese img{ float:left; margin-right:15px;}
+.ts{ position:absolute; top:10px; right:0px;}
+
+.list-tese{position:relative;width:300px;height:70px;overflow:hidden;zoom:1;}
+.list-tese li{float:left;display:inline;width:300px;height:70px;position:relative;}
+.list-tese li span{font:14px/24px 'Arial','Microsoft Yahei','微软雅黑','simhei','黑体';height:30px;}
+.pt6{ padding-top:6px;}
+
+.list08{margin-top:10px; background:#f7f7f7; padding-bottom:12px;}
+.list08 dt{ background:url(images/nav.png) no-repeat 0 -447px; height:25px;}
+.list08 dd{margin-top:21px}
+.list08_slide{position:relative;width:300px;height:213px;overflow:hidden;zoom:1;}
+.list08_slide_items{float:left;display:inline;width:300px;height:213px;position:relative;}
+.list08_slide_items .p_a{width:300px;height:213px;}
+.list08_slide_items span{font:500 14px/30px 'Arial','Microsoft Yahei','微软雅黑','simhei','黑体';height:30px;}
+.p_a{display:block;width:100%;position:relative;zoom:1;}
+.p_a img{display:block;width:100%;height:100%;}
+.p_a span{cursor:pointer;position:absolute;display:block;width:100%;bottom:0;left:0;white-space:nowrap;overflow:hidden;zoom:1;text-align:center;background:rgba(0,0,0,0.5);filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#88000000',endColorstr='#88000000')\9;}
+:root .p_a span{filter:none\9;}
+.p_a:link span,.p_a:visited span{color:#fff;}
+.p_a:hover span{color:#fff;text-decoration:underline;}
+.p_a_fix{padding-top:1px;}
+
+.slide_dots01{text-align:center;line-height:0;padding-top:10px;}
+.slide_dots01 span{cursor:pointer;display:inline-block;width:8px;height:8px;overflow:hidden;zoom:1;margin:0 6px 0 7px;font-size:0;line-height:0;background:#c1c1c1;}
+.slide_dots01 .selected{background:#faa500;}
+
+.list-wj{ zoom:1; margin-right:-50px; margin-bottom:30px;}
+.list-wj li{  margin:0 16px 30px 0; float:left; height:370px; width:316px; border:solid 5px #d7d7d7; border-left-width:1px; border-top-width:1px}
+.list-wj li .img{ width:296px; height:211px; padding-bottom:15px; display:inline-block;}
+.wj-wrap{ padding:10px; height:350px; width:296px; position:relative;}
+.wj-summary{ border-top:dotted 1px #d7d7d7; padding:15px; display:block; height:132px; overflow:hidden; line-height:24px;}
+.wj-wrap img{ margin-bottom:15px; }
+.dot_t{ position:absolute; background:#fff; width:5px; height:5px; top:-1px; right:-6px;}
+.dot_b{ position:absolute; background:#fff; width:5px; height:5px; bottom:-6px; left:-1px;}
+.wj-bar{ position:absolute; bottom:0px; left:0px; height:40px; line-height:40px; background:#f2f2f2; display:inline-block; width:296px; padding:0px 10px}
+.tag{ background:url(http://guangdong.sinaimg.cn/images/2013news/tag.png) no-repeat left 8px; width:15px; margin-left:5px; display:inline-block; text-indent:-99999px;}
+
+		/*微博矩阵*/
+.aside-wbjz{ padding:10px 0}
+.w220{ width:220px}
+.border{ border:solid 1px #e2e2e2;}
+.weibo-a{ background:#f7f7f7; padding:5px;}
+.wb-name{ background:url(http://guangdong.sinaimg.cn/images/2013index/v.jpg) no-repeat right 3px; padding-right:20px; display:inline-block; margin-bottom:15px;}
+
+.link-007bca{color:#007bca}
+.link-007bca:visited{color:#007bca}
+.link-007bca:hover{color:#ce8819}
+
+.top-nav{background:url(http://guangdong.sinaimg.cn/news/jiaodu/images/top-nav-bg.jpg) repeat-x; height:147px;}
+.top-nav .top-guan{background:url(http://guangdong.sinaimg.cn/images/2013news/gd.jpg) no-repeat 50% 0; height:147px;}
+.top-nav .top-guan .top-warp{width:1000px; position:relative; margin:0 auto;}
+.top-warp .top-guan-L{z-index:1; position:absolute; width:281px; height:147px; top:0; left:0;}
+.top-warp .top-guan-R{z-index:1; position:absolute; width:136px; height:58px; top:65px; right:0;}
+.top-guan .top-guan-micon{background:url(http://guangdong.sinaimg.cn/news/jiaodu/images/mobile-icon.png) no-repeat 0 0; padding-left:19px; display: inline; margin-right:16px; padding-bottom:10px}
+.top-guan .top-guan-wicon{background:url(http://guangdong.sinaimg.cn/news/jiaodu/images/weibo-icon.png) no-repeat; padding-left:25px;  height:17px; display: inline; padding-bottom:10px}
+
+.loading{ display:none; margin:30px; text-align:center;}
+.page{text-align:center;height:28px; padding:30px 10px; font-size:14px;}
+.page a,.page span{display:inline-block;line-height:26px;padding:0 9px;;margin:1px 2px 0 3px;color:#004274; border:solid 1px #e2e2e2;}
+.page a{background-color:#f3f3f3}
+.page .current,.page a:hover{background-color:#007bca;color:#fff; text-decoration:none;}
+.page .next,.page .prev{line-height:28px; border:solid 1px #e2e2e2; width:62px;padding:0;margin-top:0;background-color:transparent;}
+.page .current.next,.page .current.prev{color:#424242;}
+.page .next:hover,.page .prev:hover,.btn-tran,.icon:hover{background-color:transparent !important;color:#424242 !important;}
+
+.latest{ margin-bottom:25px; padding-bottom:25px; background:url(http://guangdong.sinaimg.cn/images/2013news/latest.jpg) no-repeat left bottom;}
+.latest h3{ margin-bottom:10px; font-weight:normal;}
+
+.ts-pic{ margin:10px 0 20px 0;}
+.tags{ background:url(http://guangdong.sinaimg.cn/images/2013news/tag.png) no-repeat left 8px; padding-left:20px;}
+
+.top-title{ background:url(images/news_gd.png) no-repeat center top; height:147px; }
+<script type="text/javascript" src="http://common.gd.sina.com.cn/userinfo.php" charset="utf-8"></script>
+<script type="text/javascript" src="http://guangdong.sinaimg.cn/2012/jquery-1.7.1.min.js"></script>
+    }
+    .part5 .content li a{}
+    .part5 .content li a img{
+        width: 100%;
+        height: 110px;
+        background-color: #ddd;
+        margin-bottom: 15px;
+    }
+    ul.pictures li {
+        margin: 0 8px 25px 0;
+    }
+    ul.pictures li>div {
+        position: relative;
+        height: 250px;
+        padding: 10px;
+        border: solid 1px #d7d7d7;
+        -moz-box-shadow: 5px 5px 0 #d7d7d7;
+        box-shadow: 5px 5px 0 #d7d7d7;
+    }
+    .picture-summary {
+        border-top: dotted 1px #d7d7d7;
+        padding: 15px;
+        display: block;
+        overflow: hidden;
+    }
+    .share-bar {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 40px;
+        background: #f2f2f2;
+        display: inline-block;
+        width: 258px;
+        padding: 0 10px;
+        line-height: 3;
+    }
+    .tag {
+        background: url(http://guangdong.sinaimg.cn/images/2013news/tag.png) no-repeat left 8px;
+        width: 15px;
+        margin-left: 5px;
+        display: inline-block;
+        text-indent: -99999px;
+    }
+</style>
+<div class="w part part5">
+    <div class="title title3">
+        <p></p>
+    </div>
+    <div style="height:285px;overflow-x: hidden;overflow-y: scroll;">
+        <ul class="fc content lh pictures">
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/144623636.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150501.jpg" alt="浪花妹年终大盘点">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/145023640.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150510.jpg" alt="亚航QZ8501打捞超40具遗体">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-02/083923780.html">
+                        <img src="http://guangdong.sinaimg.cn/2015/0104/U10867P693DT20150104150612.jpg" alt="勒流爆燃事故要尽快取样分析查清原因 ">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/144623636.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150501.jpg" alt="浪花妹年终大盘点">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/145023640.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150510.jpg" alt="亚航QZ8501打捞超40具遗体">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-02/083923780.html">
+                        <img src="http://guangdong.sinaimg.cn/2015/0104/U10867P693DT20150104150612.jpg" alt="勒流爆燃事故要尽快取样分析查清原因 ">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/144623636.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150501.jpg" alt="浪花妹年终大盘点">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/145023640.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150510.jpg" alt="亚航QZ8501打捞超40具遗体">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-02/083923780.html">
+                        <img src="http://guangdong.sinaimg.cn/2015/0104/U10867P693DT20150104150612.jpg" alt="勒流爆燃事故要尽快取样分析查清原因 ">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/144623636.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150501.jpg" alt="浪花妹年终大盘点">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2014-12-31/145023640.html">
+                        <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231150510.jpg" alt="亚航QZ8501打捞超40具遗体">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <div>
+                    <a href="http://gd.sina.com.cn/fs/yaowen/2015-01-02/083923780.html">
+                        <img src="http://guangdong.sinaimg.cn/2015/0104/U10867P693DT20150104150612.jpg" alt="勒流爆燃事故要尽快取样分析查清原因 ">
+                        <span class="picture-summary">
+                            <span style="font-size:12pt;font-weight:700;">北上广年轻人啃老？愿打愿挨</span>
+                            “家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。
+                        </span>
+                    </a>
+                    <div class="share-bar"><span class="fl">2014-12-26</span>
+                        <span class="fr" style="margin-top: 8px">
+                            <span id="bdshare" style="float:left;" class="bdshare_t bds_tools get-codes-bdshare" data="{text:'“家里就我一个孩子，父母现在存的钱以后就是留给我的，现在用和将来用有什么区别？”这并不是个别年轻人的想法。',url:'http://gd.sina.com.cn/news/291/2014/1226/78.html',pic:'http://guangdong.sinaimg.cn/news/291/2014/1226/U10934P693T291D78F5706DT20141227125133.jpg'}">
+                                <a class="bds_tsina" title="分享到新浪微博" href="#"></a>
+                                <a class="bds_qzone" title="分享到QQ空间" href="#"></a>
+                                <a class="bds_renren" title="分享到人人网" href="#"></a>
+                                <a class="shareCount" style="display:none;" href="#" title="累计分享0次">0</a>
+                                <span class="bds_more"></span>
+                            </span>
+                            <a href="#" class="tag">评论</a>
+                        </span>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+</div>
+<!-- <script src="js/jquery.js"></script> -->
+<script src="http://guangdong.sinaimg.cn/2012/jquery-1.7.1.min.js"></script>
+<!--分享按钮开始-->
+<script type="text/javascript" id="bdshare_js" data="type=tools&amp;uid=0" src="http://bdimg.share.baidu.com/static/js/bds_s_v2.js?cdnversion=394712"></script>
+<!--分享按钮结束-->
+<div class="w part part6">
+    <div class="title title4">
+        <p></p>
+    </div>
+    <div class="part-i clearfix">
+        <div class="photoGallery-wrap">
+            <div class="leftLoop">
+                <div class="hd">
+                    <a class="next"></a>
+                    <ul>
+                        <li>1</li>
+                        <li>2</li>
+                    </ul>
+                    <a class="prev"></a>
+                </div>
+                <div class="bd">
+                    <ul class="picList">
+                        <li>
+
+                            <div class="photoGallery clearfix">
+                                <ol>
+                                    <li class="gallery-wrap3">
+                                        <a href="http://gd.sina.com.cn/fs/fun/tdxw/2014-12-28/1426142.html" target="_blank" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231111945.jpg" width="320" height="427" alt="德云居 古朴雅致的粤菜馆" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>德云居 古朴雅致的粤菜馆</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="gallery-wrap8">
+                                        <a href="http://gd.sina.com.cn/fs/lvyou/2014-12-30/155923506.html" target="_blank" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231113847.jpg" width="160" height="225" alt="元旦系列文化活动走进清晖园" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>元旦系列文化活动走进清晖园</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="gallery-wrap5">
+                                        <a href="http://gd.sina.com.cn/fs/tushuo/2014-12-11/172222055.html" target="_blank" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231112623.jpg" width="320" height="225" alt="" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>伦教木工机械展</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="gallery-wrap6">
+                                        <a href="http://gd.sina.com.cn/fs/tushuo/2014-12-15/160622273.html" class="relative block link-fff" target="_blank">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231112308.jpg" width="330" height="185" alt="" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>“天鹅湖”飞来顺德</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+
+                                    </li>
+                                    
+                                </ol>
+                            </div>
+
+                        </li>
+                        <li>
+
+                            <div class="photoGallery clearfix">
+                                <ol>
+                                    <li class="gallery-wrap3">
+                                        <a href="http://gd.sina.com.cn/fs/tushuo/2014-12-15/151722272.html" target="_blank" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231113355.jpg" width="320" height="427" alt="" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>伦教“石头宴”以假乱真</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="gallery-wrap4">
+                                        <a href="http://gd.sina.com.cn/fs/lvyou/2014-12-30/113323480.html" target="_blank" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231114405.jpg" width="480" height="225" alt="" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>美景美食遍沿贵广　黔东南风俗风情浓</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                    
+                                    <li class="gallery-wrap6">
+                                        <a href="http://gd.sina.com.cn/fs/meishi/2014-12-18/121322495.html" class="relative block link-fff">
+                                            <img src="http://guangdong.sinaimg.cn/2014/1231/U10867P693DT20141231112926.jpg" width="480" height="185" alt="" />
+                                            <div class="pic-tips">
+                                                <div class="tipsInfo">
+                                                    <h4>冬日滋补美食的别致邂逅</h4>
+                                                    <p></p>
+                                                </div>
+                                            </div>
+                                        </a>
+                                    </li>
+                                   
+                                </ol>
+                            </div>
+
+                        </li>
+
+                    </ul>
+
+                </div>
+            </div>
+
+        </div>
+
+        <script type="text/javascript" src="http://guangdong.sinaimg.cn/images/2013index/jQuery.blockUI.js"></script>
+        <script type="text/javascript" src="http://guangdong.sinaimg.cn/images/2013index/jquery.SuperSlide.js"></script>
+
+        <script>
+        jQuery(".leftLoop").slide({
+            mainCell: ".bd ul",
+            effect: "leftLoop",
+            vis: 1,
+            scroll: 1,
+            autoPlay: true
+        });
+        </script>
+    </div>
+</div>
+
+<script>
+try{document.domain="sina.com.cn";}catch(e){}
+/*序号切换,下一个,自动播放*/
+var Nexts = (function(){
+    var pro = Nexts.prototype={
+        init : function(args){
+            // 初始序号
+            this.index = args.index || 0;
+            // 上一个序号
+            this.pre_index = 0;
+            // 下一个序号
+            this.next_index = 0;
+            // 长度
+            this.length = args.length || 0;
+            // 时间间隔
+            this.interval = args.interval || 3000 ;
+            // 上一个动作
+            this.last_action= args.last_action || function(){};
+            // 下一个动作
+            this.cur_action = args.cur_action || function (){};
+            // 初始化动作
+            args.init && args.init.call(this);
+            this.start();
+        },
+        // 切换
+        change : function(index){
+            this.next_index =index;
+            this.last_action.call(this);
+            this.pre_index = this.index;
+            this.index = index;
+            this.cur_action.call(this);
+            return this;
+        },
+        // 高级切换
+        changeA : function(last_action ,cur_action ,index){
+            last_action.call(this);
+            this.index = index;
+            cur_action.call(this);
+            return this;
+        },
+        // 上一个
+        pre : function (){
+            return this.change(this.index ? this.index-1 : this.length-1) ;
+        },
+        // 下一个
+        next : function(){
+            return this.change((this.index+1) % this.length);
+        },
+        // 自动播放动作
+        start_action : function(){
+            this.next();
+            this.start();
+        },
+        // 开始自动播放
+        start : function(){
+            var self = this;
+            this.stop();
+            this._sto = setTimeout(function(){
+                self.start_action();
+            },this.interval);
+            return this;
+        },
+        // 停止
+        stop : function(){
+            clearTimeout(this._sto);
+            return this;
+        },
+        // 重置自动播放 (时间重新倒计时)
+        reset : function(){
+            this.stop();
+            return this.start();
+        }
+    };
+    pro.init.prototype = pro;
+
+    function Nexts(args){
+        return new pro.init(args);
+    }
+
+    return Nexts;
+})();
+</script>
+<!-- <script src="js/Nexts.js"></script> -->
+<!-- <script src="js/script.js"></script> -->
+<script>
+    ~function(){
+        var $li = $('.box2 .barbox li'),
+        $curli = $li.last();
+        $('.box2 .navbox li').mouseenter(function(){
+            $curli.css({left : $(this).index() * $li.outerWidth()});
+        }).click(function(){
+            $('html,body').animate({scrollTop:$('.title'+($(this).index()+1)).offset().top});
+            return false;
+        })
+    }();
+</script>
+
+<!--foot-->
+<style>
+/*页底*/
+.foot{margin-top:49px}
+.foot .foot_p1{ background-color:#f1f1f1; padding:24px 0;}
+.foot_p1 dt{ background:url(http://guangdong.sinaimg.cn/images/2013index/f_nav.png) no-repeat 0 0; height:100px; width:126px; float:left;}
+.foot_p1 dd{padding-top:20px; float:right; width:845px;}
+.foot_p1 dd p{ font:12px/30px 宋体;}
+.foot_p1 dd p a{color:#696969; margin:0 3px;}
+.foot_p1 dd p a:visited{color:#696969; margin:0 3px;}
+.foot_p1 dd p a:hover{color:#c00; margin:0 3px;}
+.foot .foot_p2{ background-color:#f8f8f8; padding:24px 0;}
+.foot_p2 dt{ background:url(http://guangdong.sinaimg.cn/images/2013index/f_nav.png) no-repeat 0 -131px; height:100px; width:126px; float:left;}
+.foot_p2 dd{float:right; width:845px;}
+.foot_p2 ul{}
+.foot_p2 ul li{float:left; width:166px; height:120px; border-right:1px solid #ddd; text-align:center;}
+.foot_p2 ul li p{font:12px/26px 宋体;}
+.foot_p2 ul li p a{color:#6f6f6f;}
+.foot_p2 ul li p a:visited{color:#6f6f6f;}
+.foot_p2 ul li p a:hover{color:#c00;}
+.foot .foot_p3{ border-top:4px solid #ebebeb; padding:24px 0;}
+.foot .foot_p3 p{text-align:center; line-height:26px; color:#222;}
+.foot .foot_p3 p a{color:#222; margin:0 8px;}
+.foot .foot_p3 p a:visited{color:#222; margin:0 8px;}
+.foot .foot_p3 p a:hover{color:#c00; margin:0 8px;}
+
+.foot_p2 ul li{ width:166px; height:120px;}
+.foot_p1 dd p{ line-height:24px}
+</style>  
+<div class="foot">
+
+       <div class="foot_p3">
+        <p>新浪广东意见反馈留言板 电话：4006900000 欢迎批评指正</p>
+        <p><a href="http://gd.sina.com.cn/about/us/index.html" target="_blank">新浪广东简介</a> | <a href="http://gd.sina.com.cn/sitemap.html" target="_blank">网站地图</a> | <a 
+
+href="http://gd.sina.com.cn/about/sev/index.html" target="_blank">营销服务</a> | <a href="http://gd.sina.com.cn/ads/gd_sina.html" target="_blank">广告刊例</a> | <a 
+
+href="http://gd.sina.com.cn/about/daili/index.html" target="_blank">广告代理</a> | <a href="http://gd.sina.com.cn/jobs/index.shtml" target="_blank">招聘英才</a> | <a 
+
+href="http://gd.sina.com.cn/about/con/index.html" target="_blank">联系我们</a> | <a href="http://www.sina.com.cn/intro/lawfirm.shtml" target="_blank">网站律师</a> | <a 
+
+href="http://english.sina.com" target="_blank">SINA English</a> | <a href="https://login.sina.com.cn/signup/signup.php" target="_blank">通行证注册</a> | <a 
+
+href="http://tech.sina.com.cn/focus/sinahelp.shtml" target="_blank">产品答疑</a></p>
+        <p class="copyright">Copyright &copy;&nbsp;1996&nbsp;-&nbsp;2015 SINA Corporation, All Rights Reserved</p>
+        <p>新浪公司版权所有</p>
+    </div>
+
+</div>
+<script type="text/javascript" src="http://common.gd.sina.com.cn/userinfo.php" charset="utf-8"></script>
+<script>
+$(function(){
+    $('.close').click(function(){
+        $(".nav-wrap").css("position" , "relative");
+        $(this).fadeOut();
+    });
+
+    if(globalUserInfo.uid != null){
+        $('.nav-p2').find('li').eq(2).find('a').html(globalUserInfo.nickname);
+        $('.nav-p2').find('li').eq(2).find('a').attr('href','http://weibo.com/u/'+globalUserInfo.uid);
+        $('.nav-p2').find('li').eq(2).find('a').attr('target','_blank');
+        $('.nav-p2').find('li').eq(0).find('a').html('退出');
+        $('.nav-p2').find('li').eq(0).find('a').attr('href','http://weibo.com/logout.php?backurl='+location.href);
+    }else{
+        $('.nav-p2').find('li').eq(2).find('a').html('新浪微博');       
+        $('.nav-p2').find('li').eq(2).find('a').attr('href','http://weibo.com/');
+        $('.nav-p2').find('li').eq(2).find('a').attr('target','_blank');
+        $('.nav-p2').find('li').eq(0).find('a').html('登录');
+        $('.nav-p2').find('li').eq(0).find('a').attr('href','http://login.sina.com.cn/signup/signin.php?r=http://gd.sina.com.cn');
+    }
+/*
+    var slide = new Focus.ui.Slide(Focus("#dot-tab-box-21 .dot-ctrls > .dot-ctrl"), Focus("#dot-tab-box-21 > .tab-con-1"), "current", "mouseover", 2000);
+    // 视频
+    $("video").on("click", function(e) {
+        var v = e.target;
+        if (v.paused) {
+            v.play();
+            slide.pause();
+        } else {
+            v.pause();
+            slide.play();
+        }
+        return false;
+    });
+    $("video").on("ended", function() {
+        slide.play();
+    });
+    */
+});
+</script>
+<!--foot-->
+</body>
+
+</html>
